@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Steven Ovadia"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Steven Ovadia"
+description              : &description "Steven Ovadia is a writer and librarian in Queens, NY"
+url                      : https://stevenov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  stevenov              : &twitter
 facebook:
   username               :
   app_id                 :
@@ -78,38 +78,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Steven Ovadia"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  bio              : "Writer and Librarian"
+  location         : "Queens, NY"
+#employer         :
+#googlescholar    : "http://yourfullgooglescholarurl.com"
+#email            :
+#uri              :
+#bitbucket        :
+#codepen          :
+#dribbble         :
+#flickr           :
+#facebook         :
+#foursquare       :
+github           : "stevenov"
+  google_plus      : "+StevenOvadia"
+  keybase          : "stevenov"
+#  instagram        :
+#  lastfm           :
+  linkedin         : "steven-ovadia"
+#  orcid            : "http://orcid.org/yourorcidurl"
+#  pinterest        :
+#  soundcloud       :
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  steam            :
+#  tumblr           :
+  twitter          : "steven_ovadia"
+#  vine             :
+#  weibo            :
+# xing             :
+#  youtube          :
+#  wikipedia        :
 
 
 # Reading Files
