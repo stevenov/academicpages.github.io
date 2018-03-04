@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Steven Ovadia, Writer and Librarian"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Welcome to the home page for Steven Ovadia.
+
+These are the links to my various projects.
