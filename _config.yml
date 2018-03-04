@@ -92,19 +92,19 @@ author:
 # flickr           :
 # facebook         :
 # foursquare       :
-github           : "stevenov"
-google_plus      : "https://plus.google.com/u/0/+StevenOvadia"
-keybase          : "stevenov"
+  github           : "stevenov"
+  google_plus      : "https://plus.google.com/u/0/+StevenOvadia"
+  keybase          : "stevenov"
 #  instagram        :
 #  lastfm           :
-linkedin         : "steven-ovadia"
+  linkedin         : "steven-ovadia"
 #  orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
 #  steam            :
 #  tumblr           :
-twitter          : "steven_ovadia"
+  twitter          : "steven_ovadia"
 #  vine             :
 #  weibo            :
 # xing             :
