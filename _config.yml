@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   :	"en-US"
-title                    : 	"Steven Ovadia"
-title_separator          : 	"-"
+locale                   :"en-US"
+title                    :"Steven Ovadia"
+title_separator          :"-"
 name                     : &name "Steven Ovadia"
 description              : &description "Steven Ovadia is a writer and librarian in Queens, NY"
 url                      : https://stevenov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
