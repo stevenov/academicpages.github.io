@@ -12,12 +12,12 @@ title_separator          : "-"
 name                     : &name "Steven Ovadia"
 description              : &description "Steven Ovadia is a writer and librarian in Queens, NY"
 url                      : https://stevenov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  :"" # the subpath of your site, e.g. "/blog"
-repository               :"academicpages/academicpages.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              :false # true, false (default)
-words_per_minute         :160
-read_more                :"disabled" # if enabled, adds "Read more" links to excerpts
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -29,23 +29,23 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          :['name', 'email', 'url', 'message']
-  branch                 :"gh-pages" # "master", "gh-pages"
-  commitMessage          :"New comment."
-  filename               :comment-{@timestamp}
-  format                 :"yml"
-  moderation             :true
-  path                   :"_data/comments/{options.slug}"
-  requiredFields         :['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "gh-pages" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                :"md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               :"date"
+      type               : "date"
       options:
-        format           :"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   :# blank (default) uses feed.xml
+  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  stevenov              :&twitter
+  stevenov              : &twitter
 facebook:
   username               :
   app_id                 :
@@ -71,17 +71,17 @@ social:
 
 # Analytics
 analytics:
-  provider               :"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             :"Steven Ovadia"
-  avatar           :"profile.png"
-  bio              :"Writer and Librarian"
-  location         :"Queens, NY"
+  name             : "Steven Ovadia"
+  avatar           : "profile.png"
+  bio              : "Writer and Librarian"
+  location         : "Queens, NY"
 #employer         :
 #googlescholar    : "http://yourfullgooglescholarurl.com"
 #email            :
@@ -92,19 +92,19 @@ author:
 #flickr           :
 #facebook         :
 #foursquare       :
-github           :"stevenov"
-  google_plus      :"+StevenOvadia"
-  keybase          :"stevenov"
+github           : "stevenov"
+  google_plus      : "+StevenOvadia"
+  keybase          : "stevenov"
 #  instagram        :
 #  lastfm           :
-  linkedin         :"steven-ovadia"
+  linkedin         : "steven-ovadia"
 #  orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
 #  steam            :
 #  tumblr           :
-  twitter          :"steven_ovadia"
+  twitter          : "steven_ovadia"
 #  vine             :
 #  weibo            :
 # xing             :
