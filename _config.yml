@@ -83,7 +83,7 @@ author:
   bio              : "Writer and Librarian"
   location         : "Queens, NY"
 # employer         :
-# googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NDgFW5EAAAAJ&hl=en&oi=ao"
 # email            :
 # uri              :
 # bitbucket        :
@@ -98,7 +98,7 @@ author:
 #  instagram        :
 #  lastfm           :
   linkedin         : "steven-ovadia"
-#  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5442-1447"
 #  pinterest        :
 #  soundcloud       :
 #  stackoverflow    : # http://stackoverflow.com/users/123456/username
