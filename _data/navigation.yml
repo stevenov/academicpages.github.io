@@ -7,7 +7,7 @@ main:
     url: /books/    
 
   - title: "Music writing"
-    url: /reviews/    
+    url: /music/    
     
   - title: "Linux"
     url: /linux/
