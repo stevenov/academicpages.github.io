@@ -6,7 +6,7 @@ main:
   - title: "Books"
     url: /books/    
 
-  - title: "Music reviews"
+  - title: "Music writing"
     url: /reviews/    
     
   - title: "Linux"
