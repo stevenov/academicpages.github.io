@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Academic publications"
 permalink: /publications/
 author_profile: true
