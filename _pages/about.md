@@ -10,4 +10,6 @@ redirect_from:
 
 Welcome to the home page for Steven Ovadia.
 
-These are the links to my various projects.
+I'm an academic librarian and writer, focusing on everything from library issues to free and open software to music.
+
+This site collects my writing and projects.
