@@ -7,7 +7,7 @@ author_profile: true
 
 I use Linux full-time at home and have for quite some time. I'm a believer in the power of free and open source software, and that belief fuels just about all of my technology writing.
 
-My main technology writing outlet is [Linux Rig](https://linuxrig.com/), my site about using desktop Linux. A popular feature of that site is "[The Linux Setup](https://linuxrig.com/the-linux-setup/)," which is interviews with different Linux users about their Linux setups.
+My main technology writing outlet is [Linux Rig](https://linuxrig.com/), my site about using desktop Linux. A popular feature of that site is "[The Linux Setup](https://linuxrig.com/the-linux-setup/)," which is interviews with different Linux users about how they use Linux.
 
 I've also written for [OpenSource.com](http://opensource.com/), which does a wonderful job covering free and open source technology and culture:
 
@@ -37,7 +37,7 @@ I also sometimes write about productivity:
 * [Four Steps to Making the Most Out of Your Meeting Notes](https://timemanagementninja.com/2016/12/four-steps-to-making-the-most-out-of-your-meeting-notes/) / *Time Management Ninja*
 * [Five Steps to Stage Your Project and Be More Productive](https://timemanagementninja.com/2016/08/5-steps-to-stage-your-project-and-be-more-productive/) / *Time Management Ninja*
 
-I also wrote a few articles in support of my book, *[Learn Linux in a Month of Lunches](https://manning.com/ovadia)*:
+I also wrote a few technical articles in support of my book, *[Learn Linux in a Month of Lunches](https://manning.com/ovadia)*:
 
 * [How to Choose a Linux Desktop Environment](https://community.spiceworks.com/how_to/131163-how-to-choose-a-linux-desktop-environment) / *Spiceworks*
 * [How to install Linux in a virtual machine](https://community.spiceworks.com/how_to/126995-how-to-install-linux-in-a-virtual-machine) / *Spiceworks*
