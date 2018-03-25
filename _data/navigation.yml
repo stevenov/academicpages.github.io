@@ -6,9 +6,6 @@ main:
   - title: "Books"
     url: /books/    
 
-  - title: "Linux"
-    url: /linux/
-
   - title: "Music writing"
     url: /music/    
     
