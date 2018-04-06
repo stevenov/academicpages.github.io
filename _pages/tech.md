@@ -30,7 +30,7 @@ I also occasionally post things to *Medium*:
 * [Opening Linux Even Further](https://medium.com/@steven_ovadia/opening-linux-even-further-13d2d6289ae0)
 * [What Linux Taught Me About Productivity](https://medium.com/@steven_ovadia/what-linux-taught-me-about-productivity-b7bc9f3511f2)
 
-I also sometimes write about productivity:
+I also sometimes write about productivity. [These are the productivity articles from Linux Rig](https://linuxrig.com/category/hardly-working/). These are from other sites:
 
 * [Four Steps to Creating a Personal Product Pipeline](https://medium.com/@steven_ovadia/four-steps-to-creating-a-personal-product-pipeline-843d39a35b1) / *Medium*
 * [Productivity is a Side Effect](https://medium.com/@steven_ovadia/productivity-is-a-side-effect-a29d55f746)/ *Medium*
