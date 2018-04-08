@@ -5,6 +5,16 @@ permalink: /music/
 author_profile: true
 ---
 
+AJ Ghent [J-ent] - *The Neo Blues Project*  
+[***American Blues Scene***](https://www.americanbluesscene.com/aj-ghent-serves-the-songs-on-the-neo-blues-project/) / album review
+
+Ghost Town Blues Band - *Backstage Pass*  
+[***American Blues Scene***](https://www.americanbluesscene.com/gtbbs-backstage-pass-is-a-real-good-time/) / album review
+
+Albert Cummings   
+[***Blues Rock Review***](http://bluesrockreview.com/2018/03/albert-cummings-interview.html) / interview
+
+
 Marcus Randolph - *Transplant*  
 [***No Depression***](http://nodepression.com/album-review/transplant-takes-listeners-exciting-place) / album review
 
