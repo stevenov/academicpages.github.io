@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the portfolio of Steven Ovadia.
+Welcome to my portfolio.
 
 I'm an academic librarian and writer, focusing on everything from library issues to free and open software to music.
 
