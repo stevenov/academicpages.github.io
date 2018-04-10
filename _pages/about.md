@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Steven Ovadia, Writer and Librarian"
+title: "Portfolio for Steven Ovadia"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
