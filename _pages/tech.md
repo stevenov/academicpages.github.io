@@ -33,7 +33,7 @@ I also occasionally post things to *Medium*:
 I also sometimes write about productivity. [These are the productivity articles from Linux Rig](https://linuxrig.com/category/hardly-working/). These are from other sites:
 
 * [Four Steps to Creating a Personal Product Pipeline](https://medium.com/@steven_ovadia/four-steps-to-creating-a-personal-product-pipeline-843d39a35b1) / *Medium*
-* [Productivity is a Side Effect](https://medium.com/@steven_ovadia/productivity-is-a-side-effect-a29d55f746)/ *Medium*
+* [Productivity is a Side Effect](https://medium.com/@steven_ovadia/productivity-is-a-side-effect-a29d55f746) / *Medium*
 * [Four Steps to Making the Most Out of Your Meeting Notes](https://timemanagementninja.com/2016/12/four-steps-to-making-the-most-out-of-your-meeting-notes/) / *Time Management Ninja*
 * [Five Steps to Stage Your Project and Be More Productive](https://timemanagementninja.com/2016/08/5-steps-to-stage-your-project-and-be-more-productive/) / *Time Management Ninja*
 
