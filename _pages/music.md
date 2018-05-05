@@ -5,6 +5,25 @@ permalink: /music/
 author_profile: true
 ---
 
+Dana Fuchs - *Love Lives On*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/04/dana-fuchs-love-lives-on-review.html) / album review
+
+Kris Lager Band - *Love Songs and Life Lines*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/04/kris-lager-band-love-songs-life-lines-review.html) / album review
+
+Paul Thorn - *Don’t Let the Devil Ride*  
+[***American Blues Scene***](https://www.americanbluesscene.com/paul-thorn-gives-us-gospel-on -dont-let-the-devil-ride/) / album review
+
+Nick Moss Band - *The High Cost of Low Living*  
+[***Festival Peak***](https://festivalpeak.com/throwback-chicago-blues-with-the-nick-moss-band-faa90c0cdd32) / album review
+
+Greyhounds - *Cheyenne Valley Drive*  
+[***American Blues Scene***](https://www.americanbluesscene.com/greyhounds-create-huge-sound-on-cheyenne-valley-drive/) / album review
+
+Parker Millsap - *Other Arrangements*   
+[***Glide Magazine***](https://glidemagazine.com/204911/parker-milsap-shows-growth-versatility-with-other-arrangements-album-review/) / album review
+
+
 AJ Ghent [J-ent] - *The Neo Blues Project*  
 [***American Blues Scene***](https://www.americanbluesscene.com/aj-ghent-serves-the-songs-on-the-neo-blues-project/) / album review
 
