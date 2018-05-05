@@ -9,6 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+
+Ovadia, Steven. "Shadow Project Management: Using the Project Management Body of Knowledge to Informally Manage Library Projects." *Project Management in the Library Workplace*. Eds. Alice Daugherty and Samantha Schmehl Hines. Bingley: Emerald Publishing Limited (2018).
+
 McHale, Christopher, Francine Egger-Sider, Louise Fluk and Steven Ovadia. "Weeding without Walking: A Mediated Approach to List-Based Deselection." *Collection Management* 42(2), 92-108 (2017).
 
 Carrel, Barbara, Jane Devine, Ann Matsuuchi and Steven Ovadia. “The Critical Thinking Skills Initiative: An Information Literacy E-Learning Collaboration.” *E-Learning in Libraries Best Practices*. Eds. Charles Harmon and Michael Messina. Lanham: Scarecrow Press (2013).
