@@ -5,6 +5,9 @@ permalink: /music/
 author_profile: true
 ---
 
+Marcia Ball - *Shine Bright*  
+[***Festival Peak***](https://festivalpeak.com/marcia-ball-transcends-time-on-shine-bright-47fe24249e37) / album review
+
 Dana Fuchs - *Love Lives On*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/04/dana-fuchs-love-lives-on-review.html) / album review
 
@@ -65,7 +68,7 @@ Mick Kolassa - *Double Standards*
 Bernard Allison - *Let it Go*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/02/bernard-allison-let-it-go-review.html)  / album review
 
-Ronnie Earl - *Luckiest Man*]  
+Ronnie Earl - *Luckiest Man*  
 [***American Blues Scene***](https://www.americanbluesscene.com/ronnie-earl-is-the-luckiest-man/) / album review
 
 Popa Chubby - *Two Dogs*  
