@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio for Steven Ovadia"
+title: "Librarian/Writer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my portfolio.
-
 I'm an academic librarian and writer, focusing on everything from library issues to free and open software to music.
 
-This site collects my writing and projects.
+I'm Professor/Deputy Chief Librarian at LaGuardia Community College. My academic work centers, broadly, around technology, but has recently begun to focus on collections. My first book, *The Librarian's Guide to Academic Research in the Cloud,* showed readers how to use technology to make research easier and more effective.
+
+I also write about technology, concentrating on free and open source software. [The Linux Setup](https://linuxrig.com/the-linux-setup/) is my collection of interviews with desktop Linux users about their Linux setups. My book, *[Learn Linux in a Month of Lunches](http://manning.com/ovadia)* teaches non-technical users how to use Linux for everyday tasks.
+
+I have recently returned to music writing, reviewing albums and interviewing artists across genres, but focusing on blues and Americana.
+
+I also co-host/co-produce the [Indoor Voices podcast](https://indoorvoicespodcast.com/), with [Kathleen Collins](https://katcoindustries.wordpress.com/). The podcast features interviews with CUNY colleagues about their work.
+
+This site collects my work. 
