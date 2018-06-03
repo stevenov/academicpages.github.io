@@ -5,6 +5,21 @@ permalink: /music/
 author_profile: true
 ---
 
+Mike Zito - *First Class Life*  
+[***Festival Peak***](https://festivalpeak.com/mike-zitos-first-class-life-is-a-mixtape-made-from-scratch-6d80966029d6) / album review
+
+Shlomo Franklin - *Don't Love Anybody EP*  
+[***No Depression***](http://nodepression.com/album-review/shlomo-franklin-mines-emotional-gold) / album review
+
+Jeff Plankenhorn - *Sleeping Dogs*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/05/jeff-plankenhorn-sleeping-dogs-review.html) / album review
+
+Ally Venable - *Puppet Show*   
+[***American Blues Scene***](https://www.americanbluesscene.com/ally-venable-steps-up-on-puppet-show/) / album review
+
+Kara Grainger - *Living with Your Ghost*  
+[***Glide Magazine***](https://glidemagazine.com/207223/kara-grainger-takes-songs-to-unexpected-places-on-living-with-your-ghost-album-review/) / album review
+
 Marcia Ball - *Shine Bright*  
 [***Festival Peak***](https://festivalpeak.com/marcia-ball-transcends-time-on-shine-bright-47fe24249e37) / album review
 
