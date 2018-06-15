@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/stevenov
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://steven.ovadia.org
+  * I am stevenov (https://keybase.io/stevenov) on keybase.
+  * I have a public key ASAfsNJT4otg7iA95ftPlSwvPH8wrkg5UChsp8xjPUlC1wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010189850b4de035e0e15ca5d624fc74ee68f9c3e435179e2ec85d36579c918d7a1d0a",
+      "host": "keybase.io",
+      "kid": "01201fb0d253e28b60ee203de5fb4f952c2f3c7f30ae483950286ca7cc633d4942d70a",
+      "uid": "429783e9f68f389d3f773cc79ead3119",
+      "username": "stevenov"
+    },
+    "merkle_root": {
+      "ctime": 1529022459,
+      "hash": "9d4b525e783930f1a315406f0d6cf12198be0ab67aa34743aceabdb6ceb2286d9936874e6e6afd0cf9d22642cec90bb2acc759359e0ade0c3fc9351303b276eb",
+      "hash_meta": "877601387d3b81f695866aa6df94bcf2f55e307ed361d10aebbba064a386bf45",
+      "seqno": 3079573
+    },
+    "service": {
+      "entropy": "Ol0NUqC1CmQGITRMLfkNc45G",
+      "hostname": "steven.ovadia.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.1.0"
+  },
+  "ctime": 1529022470,
+  "expire_in": 504576000,
+  "prev": "b68e3dd8d03a2a95df7b605b05d97c1f2f1eecbf056b1c8c01916ca9d6cc2e42",
+  "seqno": 60,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgH7DSU+KLYO4gPeX7T5UsLzx/MK5IOVAobKfMYz1JQtcKp3BheWxvYWTESpcCPMQgto492NA6KpXfe2BbBdl8Hy8e7L8FaxyMAZFsqdbMLkLEILe/C6WfJWLBGqSXlIEj9DpqlK1KAxsmxqT3KBifj0qJAgHCo3NpZ8RAPh91ikjr6rRRSGiWD3HRYECZE4yqsvyxgl7RQ8kaRNcqHfaxRacrzHjGb/aDs0yceUpX+Rk2qyemqRP3t8aYCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIP6iHKV5dwDVNT6vIqdiIZzi2tWS9K6F6mY+ClIfDbGBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stevenov
+
+==================================================================
