@@ -5,6 +5,27 @@ permalink: /music/
 author_profile: true
 ---
 
+Fantastic Negrito - *Please Don’t Be Dead*  
+[***American Blues Scene***](https://www.americanbluesscene.com/fantastic-negrito-true-his-voice-with-please-dont-be-dead-2k/) / album review
+
+Dan McKinnon - *The Cleaner*  
+[***American Blues Scene***](https://www.americanbluesscene.com/dan-mckinnon-gives-us-blues-groove-on-the-cleaner-2b/) / album review
+
+Joe Barksdale - *Butterflies, Rainbows and Moonbeams*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/03/albert-cummings-interview.html) / album review
+
+Del McCoury Band - *Del McCoury Still Sings Bluegrass*  
+[***Glide Magazine***](https://glidemagazine.com/208080/the-honesty-of-the-del-mccoury-bands-del-mccoury-still-sings-bluegrass-will-speak-to-you-album-review/) / album review
+
+Giulia Millanta	- *Conversation with a Ghost*  
+[***Glide Magazine***](https://glidemagazine.com/208103/giulia-millantas-conversation-with-a-ghost-transports-listeners-to-new-world-album-review/) / album review
+
+Buddy Guy - The Blues is Alive and Well*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/06/buddy-guy-the-blues-is-alive-and-well-review.html) / album review
+
+Kerri Powers - Starseeds*  
+[***American Blues Scene***](https://www.americanbluesscene.com/kerri-powers-shares-essence-starseeds/) / album review
+
 Mike Zito - *First Class Life*  
 [***Festival Peak***](https://festivalpeak.com/mike-zitos-first-class-life-is-a-mixtape-made-from-scratch-6d80966029d6) / album review
 
