@@ -20,10 +20,10 @@ Del McCoury Band - *Del McCoury Still Sings Bluegrass*
 Giulia Millanta	- *Conversation with a Ghost*  
 [***Glide Magazine***](https://glidemagazine.com/208103/giulia-millantas-conversation-with-a-ghost-transports-listeners-to-new-world-album-review/) / album review
 
-Buddy Guy - The Blues is Alive and Well*  
+Buddy Guy - *The Blues is Alive and Well*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/06/buddy-guy-the-blues-is-alive-and-well-review.html) / album review
 
-Kerri Powers - Starseeds*  
+Kerri Powers - *Starseeds*  
 [***American Blues Scene***](https://www.americanbluesscene.com/kerri-powers-shares-essence-starseeds/) / album review
 
 Mike Zito - *First Class Life*  
