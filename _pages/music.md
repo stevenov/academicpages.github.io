@@ -12,7 +12,7 @@ Dan McKinnon - *The Cleaner*
 [***American Blues Scene***](https://www.americanbluesscene.com/dan-mckinnon-gives-us-blues-groove-on-the-cleaner-2b/) / album review
 
 Joe Barksdale - *Butterflies, Rainbows and Moonbeams*  
-[***Blues Rock Review***](http://bluesrockreview.com/2018/03/albert-cummings-interview.html) / album review
+[***Blues Rock Review***](http://bluesrockreview.com/2018/06/joe-barksdale-butterflies-rainbows-and-moonbeams-review.html) / album review
 
 Del McCoury Band - *Del McCoury Still Sings Bluegrass*  
 [***Glide Magazine***](https://glidemagazine.com/208080/the-honesty-of-the-del-mccoury-bands-del-mccoury-still-sings-bluegrass-will-speak-to-you-album-review/) / album review
