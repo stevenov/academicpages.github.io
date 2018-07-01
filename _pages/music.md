@@ -5,6 +5,21 @@ permalink: /music/
 author_profile: true
 ---
 
+Russ Green - *City Soul*  
+[***American Blues Scene***](https://www.americanbluesscene.com/debut-from-russ-green-is-windy-city-soul/) / album review
+
+Spencer Mackenzie - *Cold November*  
+[***American Blues Scene***](https://www.americanbluesscene.com/blues-duality-explored-on-spencer-mackenzies-cold-november/) / album review
+
+JP Soars - *Southbound I-95*  
+[***American Blues Scene***](https://www.americanbluesscene.com/j-p-soars-is-southbound-i-95/) / album review
+
+CeCe Teneal and Soul Kamotion - *#5or5000*  
+[***Festival Peak***](https://festivalpeak.com/cece-teneal-and-soul-kamotion-soar-like-the-blue-angels-85fc279882a) / album review
+
+Bob Corritore & Friends	- *Don’t Let The Devil Drive*  
+[***No Depression***](http://nodepression.com/album-review/bob-corritore-friends-create-perfect-throwback-blues-album) / album review
+
 Fantastic Negrito - *Please Don’t Be Dead*  
 [***American Blues Scene***](https://www.americanbluesscene.com/fantastic-negrito-true-his-voice-with-please-dont-be-dead-2k/) / album review
 
