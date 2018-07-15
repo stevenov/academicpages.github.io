@@ -5,6 +5,18 @@ permalink: /music/
 author_profile: true
 ---
 
+Elvin Bishop - *Something Smells Funky ‘Round Here*  
+[***Glide Magazine***](https://glidemagazine.com/209322/elvin-bishops-big-fun-trio-makes-beautiful-chaos-with-something-smells-funky-round-here-album-review/)
+
+Jamie Lynn's Vessels - *Storm Coming*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/07/jamie-lynn-vessels-storm-coming-review.html)
+
+The Lucky Losers - *Blind Spot*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-lucky-losers-triumph-with-blind-spot-so2/)
+
+Artur Menezes - *Keep Pushing*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/07/artur-menezes-keep-pushing-review.html)
+
 Russ Green - *City Soul*  
 [***American Blues Scene***](https://www.americanbluesscene.com/debut-from-russ-green-is-windy-city-soul/) / album review
 
