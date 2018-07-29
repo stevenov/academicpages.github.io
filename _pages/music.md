@@ -4,6 +4,17 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+"Singer-Songwriter Shlomo Franklin Defies Convention With Debut EP ‘Don’t Love Anybody’"  
+[***Glide Magazine***](https://glidemagazine.com/209937/singer-songwriter-shlomo-franklin-defies-convention-debut-ep-dont-love-anybody-interview/) / profile
+
+Phil Cook - *People Are My Drug*  
+[***Glide Magazine***](http://nodepression.com/album-review/phil-cook-shows-joys-negative-space) / album review
+
+John Clifton - *Nightlife*  
+[***American Blues Scene***](https://www.americanbluesscene.com/john-cliftons-nightlife-is-raw-and-powerful-3so/) / album review
+
+The Apocalypse Blues Review - *Shape of Blues to Come*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/07/the-apocalypse-blues-revue-shape-of-blues-to-come-review.html) / album review
 
 Elvin Bishop - *Something Smells Funky ‘Round Here*  
 [***Glide Magazine***](https://glidemagazine.com/209322/elvin-bishops-big-fun-trio-makes-beautiful-chaos-with-something-smells-funky-round-here-album-review/) / album review
