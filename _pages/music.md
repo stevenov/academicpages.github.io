@@ -4,6 +4,20 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+
+Shemeika Copeland - *America's Child*  
+[***Albumism***](http://www.albumism.com/reviews/shemekia-copeland-americas-child) / album review
+
+El Ten Eleven - *Banker's Hill*  
+[***Glide Magazine***](https://glidemagazine.com/210801/el-ten-eleven-push-rock-band-boundaries-with-bankers-hill-album-review/) / album review
+
+The Record Company - *All of This Life*  
+[***American Blues Scene***](https://www.americanbluesscene.com/record-companys-all-this-life-is-solid) / album review
+
+
+Tyler Morris - *Next in Line*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/08/tyler-morris-band-next-in-line-review.html) / album review
+
 "Singer-Songwriter Shlomo Franklin Defies Convention With Debut EP ‘Don’t Love Anybody’"  
 [***Glide Magazine***](https://glidemagazine.com/209937/singer-songwriter-shlomo-franklin-defies-convention-debut-ep-dont-love-anybody-interview/) / profile
 
