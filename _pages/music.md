@@ -14,7 +14,7 @@ Wily Bo Walker - *Almost Transparent Blues*
 Matty T Wall - *Sidewinder*  
 [***American Blues Scene***](https://www.americanbluesscene.com/matty-t-wall-shows-all-sides-on-sidewinder-4so/) / album review
 
-Rainbreakers *Face to Face*  
+Rainbreakers - *Face to Face*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/08/rainbreakers-face-to-face-review.html) / album review
 
 Bird Streets - *Bird Streets*  
