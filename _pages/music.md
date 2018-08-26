@@ -5,6 +5,21 @@ permalink: /music/
 author_profile: true
 ---
 
+Middle Class Rut - *Gutters*  
+[***Albumism***](https://www.albumism.com/reviews/middle-class-rut-gutters) / album review
+
+Wily Bo Walker - *Almost Transparent Blues*  
+[***American Blues Scene***](https://www.americanbluesscene.com/wily-bo-walker-weaves-jazz-throughout-almost-transparent-blues/) / album review
+
+Matty T Wall - *Sidewinder*  
+[***American Blues Scene***](https://www.americanbluesscene.com/matty-t-wall-shows-all-sides-on-sidewinder-4so/) / album review
+
+Rainbreakers *Face to Face*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/08/rainbreakers-face-to-face-review.html) / album review
+
+Bird Streets - *Bird Streets*  
+[***Albumism***](https://www.albumism.com/reviews/bird-streets-bird-streets) / album review
+
 Shemeika Copeland - *America's Child*  
 [***Albumism***](http://www.albumism.com/reviews/shemekia-copeland-americas-child) / album review
 
