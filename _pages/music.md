@@ -5,6 +5,21 @@ permalink: /music/
 author_profile: true
 ---
 
+"Ian Saddler and Building Ace Records' 'By the Bayou'"  
+[***American Blues Scene***](https://www.americanbluesscene.com/ian-saddler-and-building-ace-records-by-the-bayou/) / profile
+
+Jonathan Long - *Jonathan Long*  
+[***No Depression***](http://nodepression.com/album-review/samantha-fish-leads-jonathan-long-through-beautiful-surprises) / album review
+
+Steve Krase Band - *Just Waitin'*  
+[***American Blues Scene***](https://www.americanbluesscene.com/steve-krase-bands-just-waitin-is-a-fun-tour-through-blues-rockabilly-and-more/) / album review
+
+Trudy Lynn - *Blues Keep Knockin'*  
+[***American Blues Scene***](https://www.americanbluesscene.com/inspired-trudy-lynn-lifts-us-up-with/) / album review
+
+Lawrence Lebo - *Old School Girl*  
+[***American Blues Scene***](https://www.americanbluesscene.com/lawrence-lebos-old-school-girl-is-catchy-and-nicely-done/) / album review
+
 Middle Class Rut - *Gutters*  
 [***Albumism***](https://www.albumism.com/reviews/middle-class-rut-gutters) / album review
 
