@@ -4,6 +4,26 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Cedric Burnside - *Benton County Relic*  
+[***Glide Magazine***](https://glidemagazine.com/212979/cedric-burnside-proves-fearless-on-benton-county-relic-album-review/) / album review
+
+Rob Spencer Band - *Into the Blue*  
+[***No Depression***](http://nodepression.com/album-review/ron-spencer-bands-jukebox-collective-consciousness-makes-great-blues-rock) / album review
+
+Scott Sharrard - *Saving Grace*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/09/reviews/albums/scott-sharrard) / album review
+
+Crystal Shawanda - *Voodoo Woman*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/09/reviews/albums/crystal-shawanda) / album review
+
+John Oates - *Arkansas*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/09/john-oates-arkansas-review.html) / album review
+
+Joe Bonamassa - *Redemption*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/09/joe-bonamassa-redemption-review.html) / album review
+
+Blue and Lonesome Duo - *Pacing the Floor*  
+[***American Blues Scene***](https://www.americanbluesscene.com/31611-2/) / album review
 
 "Ian Saddler and Building Ace Records' 'By the Bayou'"  
 [***American Blues Scene***](https://www.americanbluesscene.com/ian-saddler-and-building-ace-records-by-the-bayou/) / profile
