@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Tony Joe White - *Bad Mouthin'*  
+[***Albumism***](https://www.albumism.com/reviews/tony-joe-white-bad-mouthin) / album review
+
+Nobody's Girl - *Waterline*  
+[***Albumism***](https://www.albumism.com/reviews/nobodys-girl-waterline) / album review
+
+Pushing Chain - *Sorrows Always Swim*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/09/reviews/albums/pushing-chain) / album review
+
+Sari Schorr - *Never Say Never*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/09/sari-schorr-never-say-never-review.html) / album review
+
 Cedric Burnside - *Benton County Relic*  
 [***Glide Magazine***](https://glidemagazine.com/212979/cedric-burnside-proves-fearless-on-benton-county-relic-album-review/) / album review
 
