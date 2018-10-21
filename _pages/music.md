@@ -4,6 +4,12 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Charlie Treat - *Charlie Treat*  
+[***No Depression***](http://nodepression.com/album-review/scuffed-and-polished-beauty-charlie-treat) / album review
+
+Handsome Jack - *Everything's Gonna Be Alright*
+[***No Depression***](http://nodepression.com/album-review/handsome-jack-song-powered-trio) / album review
+
 Tony Joe White - *Bad Mouthin'*  
 [***Albumism***](https://www.albumism.com/reviews/tony-joe-white-bad-mouthin) / album review
 
