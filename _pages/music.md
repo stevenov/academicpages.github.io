@@ -4,6 +4,15 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Bryan Lee - *Sanctuary*  
+[***No Depression***](http://nodepression.com/album-review/bryan-lee-finds-sanctuary-without-sanctimony) / album review
+
+Sean Chambers - *Welcome to My Blues*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/10/sean-chambers-welcome-to-my-blues-review.html) / album review
+
+Colin James - *Miles to Go*  
+[***American Blues Scene***](https://www.americanbluesscene.com/colin-james-has-miles-to-go/) / album review
+
 Charlie Treat - *Charlie Treat*  
 [***No Depression***](http://nodepression.com/album-review/scuffed-and-polished-beauty-charlie-treat) / album review
 
