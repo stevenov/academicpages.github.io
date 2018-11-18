@@ -4,6 +4,30 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Lightfoils - *Chambers*  
+[***Albumism***](https://www.albumism.com/reviews/lightfoils-chambers) / album review
+
+Johnny and Jaalene - *Johnny and Jaalene*  
+[***No Depression***](http://nodepression.com/album-review/johnny-and-jaalene-explore-sounds-50s) / album review
+
+Joe Louis Walker, Bruce Katz, Giles Robson - *Journeys To The Heart Of The Blues*  
+[***American Blues Scene***](https://www.americanbluesscene.com/walker-katz-and-robson-take-us-on-journeys-to-the-heart-of-the-blues/) / album review
+
+Ryan McGarvey - *Heavy Hearted*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/11/ryan-mcgarvey-heavy-hearted-review.html) / album review
+
+JP Harris - *Sometimes Dogs Bark at Nothing*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/11/reviews/albums/jp-harris) / album review
+
+Cary Morin - *When I Rise*  
+[***American Blues Scene***](https://www.americanbluesscene.com/cary-morin-demonstrates-simple-beauty-on-when-i-rise/) / album review
+
+Old Riley and the Water	- *Biting Through*  
+[***No Depression***](http://nodepression.com/album-review/old-riley-and-water-are-smaller-grateful-dead) / album review
+
+Dennis Roger Reed - *Before It Was Before*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/11/reviews/albums/dennis-roger-reed) / album review
+
 Bryan Lee - *Sanctuary*  
 [***No Depression***](http://nodepression.com/album-review/bryan-lee-finds-sanctuary-without-sanctimony) / album review
 
