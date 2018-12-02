@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Reverend Horton Heat - *Whole New Life*  
+[***Glide Magazine***](https://glidemagazine.com/217371/the-reverend-horton-heat-earns-right-to-deviate-sound-slightly-on-whole-new-life-album-review/) / album review
+
+Larkin Poe - *Venom and Faith*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/11/larkin-poe-venom-and-faith-review.html) / album review
+
+Jim Jan Dee - *Jim Jan Dee*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/11/reviews/albums/jim-dan-dee) / album review
+
+Rich Hope - *I'm All Yours*  
+[***American Blues Scene***](https://www.americanbluesscene.com/rich-hope-finds-balance-on-im-all-yours/) / album review
+
+GospelbeacH - *Another Winter Alive*  
+[***Glide Magazine***](https://glidemagazine.com/217341/gospelbeach-shine-up-unreleased-outtakes-live-tracks-on-another-winter-alive/) / album review
+
+Paul Oscher - *Cool Cat*  
+[***No Depression***](http://nodepression.com/album-review/paul-oscher-draws-comfort-blues-cool-cat) / album review
+
 Lightfoils - *Chambers*  
 [***Albumism***](https://www.albumism.com/reviews/lightfoils-chambers) / album review
 
