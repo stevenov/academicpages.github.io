@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Good Paper of Rev. Rob Mortimer - *Lock It Down Tight*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/12/reviews/albums/good-paper-of-rev-rob-mortimer) / album review
+
+Kevin Burt - *Heartland & Soul*	  
+[***American Blues Scene***](https://www.americanbluesscene.com/kevin-burt-puts-heartland-soul-into-music/) / album review
+
+Brandon Isaak - *Rise 'n' Shine*  
+[***Elmore Magazine***](http://www.elmoremagazine.com/2018/12/reviews/albums/brandon-isaak) / album review
+
+Steve Rodgers - *Head Up High*  
+[***Blues Rock Review***](http://bluesrockreview.com/2018/12/steve-rodgers-head-up-high-review.html) / album review
+
 Reverend Horton Heat - *Whole New Life*  
 [***Glide Magazine***](https://glidemagazine.com/217371/the-reverend-horton-heat-earns-right-to-deviate-sound-slightly-on-whole-new-life-album-review/) / album review
 
