@@ -4,6 +4,9 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+"Van Halen’s *1984* Turns 35"   
+[Albumism](https://www.albumism.com/features/van-halen-1984-turns-35-anniversary-retrospective) / album retrospective
+
 Good Paper of Rev. Rob Mortimer - *Lock It Down Tight*  
 [***Elmore Magazine***](http://www.elmoremagazine.com/2018/12/reviews/albums/good-paper-of-rev-rob-mortimer) / album review
 
