@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Seth Rosenbloom	- *Keep On Turning*  
+[***Albumism***](https://www.albumism.com/reviews/seth-rosenbloom-keep-on-turning) / album review
+
+Chris O'Leary - *7 Minutes Late*  
+[***No Depression***](http://nodepression.com/album-review/chris-olearys-7-minutes-late-wonderful-shot-nervous-system) / album review
+
+Kentucky Headhunters - *Live At The Ramblin' Man Fair*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-kentucky-headhunters-come-out-swingin-live-at-the-ramblin-man-fair/) / album review	
+
+Sakis Dovolis Trio - *Cross The Line*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/01/sakis-dovolis-trio-cross-the-line-review.html) / album review
+
 "Van Halen’s *1984* Turns 35"   
 [Albumism](https://www.albumism.com/features/van-halen-1984-turns-35-anniversary-retrospective) / album retrospective
 
