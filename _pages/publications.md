@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+Ovadia, Steven. "Addressing the Technical Challenges of Open Educational Resources." *portal: Libraries and the Academy* 19(1), 79-93. (2019).
 
 Ovadia, Steven. "Shadow Project Management: Using the Project Management Body of Knowledge to Informally Manage Library Projects." *Project Management in the Library Workplace*. Eds. Alice Daugherty and Samantha Schmehl Hines. Bingley: Emerald Publishing Limited (2018).
 
