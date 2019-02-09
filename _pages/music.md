@@ -278,7 +278,7 @@ Reverend Raven and the Chain Smoking Altar Boys -
 *My Life*  
 [***American Blues Scene***](https://www.americanbluesscene.com/reverend-raven-chain-smokin-alter-boys-nail-it/) / album review
 
-Michelle Lopez  - *Slings and Arrows*  
+Michelle Malone  - *Slings and Arrows*  
 [***No Depression***](http://nodepression.com/album-review/michelle-malones-outrageously-good-latest) / album review
 
 Ghalia and Mama’s Boys - *Let the Demons Out*  
