@@ -11,7 +11,7 @@ Bob Mould - *Sunshine Rock*
 [***Glide Magazine***](https://glidemagazine.com/219761/bob-mould-proves-relentless-with-heavy-catchy-sunshine-rock-album-review/) / album review
 
 John Fusco and the X-Road Riders - *John Fusco and the X-Road Riders*  
-[***Albumism***](http://bluesrockreview.com/2019/02/john-fusco-and-the-x-road-riders-review.html) / album review
+[***Blues Rock Review***](http://bluesrockreview.com/2019/02/john-fusco-and-the-x-road-riders-review.html) / album review
 
 *Conversations with Tom Petty* by Tom Petty &amp; Paul Zollo  
 [***Albumism***](https://www.albumism.com/lists1/50-must-read-music-books-part-4-of-5) / book review
