@@ -4,6 +4,21 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Mavis Staples - *Live In London*  
+[***Glide Magazine***](https://glidemagazine.com/219779/mavis-staples-lets-her-timeless-soul-legacy-shine-on-live-in-london-album-review/) / album review
+
+Bob Mould - *Sunshine Rock*  
+[***Glide Magazine***](https://glidemagazine.com/219761/bob-mould-proves-relentless-with-heavy-catchy-sunshine-rock-album-review/) / album review
+
+John Fusco and the X-Road Riders - *John Fusco and the X-Road Riders*  
+[***Albumism***](http://bluesrockreview.com/2019/02/john-fusco-and-the-x-road-riders-review.html) / album review
+
+*Conversations with Tom Petty* by Tom Petty &amp; Paul Zollo  
+[***Albumism***](https://www.albumism.com/lists1/50-must-read-music-books-part-4-of-5) / book review
+
+*Psychotic Reactions and Carburetor Dung: The Work of a Legendary Critic - Rock 'N' Roll as Literature and Literature as Rock 'N' Roll* by Lester Bangs  
+[***Albumism***](https://www.albumism.com/lists/50-must-read-music-books) / book review
+
 Seth Rosenbloom	- *Keep On Turning*  
 [***Albumism***](https://www.albumism.com/reviews/seth-rosenbloom-keep-on-turning) / album review
 
