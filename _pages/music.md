@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Ryan Bingham - *American Love Song*  
+[***Glide Magazine***](https://glidemagazine.com/220246/ryan-bingham-offers-classic-bingham-with-15-song-journey-american-love-song-album-review/) / album review
+
+Drenge - *Strange Creatures*  
+[***Glide Magazine***](https://glidemagazine.com/220644/drenge-hauls-in-the-sonic-layers-scary-and-all-on-strange-creatures-album-review/) / album review
+
+Gary Clark Jr. - *This Land*  
+[***Albumism***](https://www.albumism.com/reviews/gary-clark-jr-this-land) / album review
+
+Katarina Pejak - *Roads That Cross*  
+[***American Blues Scene***](https://www.americanbluesscene.com/katarina-pejak-debuts-on-ruf-records-with-roads-that-cross/) / album review
+
+Colin Linden & Luther Dickinson - *Amour*  
+[***Albumism***](https://www.albumism.com/reviews/colin-linden-and-luther-dickinson-with-the-tennessee-valentines-amour) / album review
+
+Eric Gales - *The Bookends*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/02/eric-gales-the-bookends-review.html) / album review
+
 Mavis Staples - *Live In London*  
 [***Glide Magazine***](https://glidemagazine.com/219779/mavis-staples-lets-her-timeless-soul-legacy-shine-on-live-in-london-album-review/) / album review
 
