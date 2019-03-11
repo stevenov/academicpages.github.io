@@ -4,6 +4,27 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Austin Meade - *Waves*  
+[***No Depression***](https://www.nodepression.com/album-reviews/austin-meade-puts-grunge-vibe-to-fresh-use/) / album review
+
+Townes Van Zandt - *Sky Blue*  
+[***Albumism***](https://www.albumism.com/reviews/townes-van-zandt-sky-blue) / album review
+
+John Mayall - *Nobody Told Me*  
+[***Glide Magazine***](https://glidemagazine.com/220246/ryan-bingham-offers-classic-bingham-with-15-song-journey-american-love-song-album-review/) / album review
+
+Lonesome Shack - *Desert Dreams*  
+[***Glide Magazine***](https://glidemagazine.com/221049/lonesome-shack-prove-high-concept-contemporary-on-desert-dreams-album-review/) / album review
+
+Arlen Roth - *Tele Masters*  
+[***American Blues Scene***](https://www.americanbluesscene.com/arlen-roth-introduces-us-to-the-telemasters/) / album review
+
+JD Simo - *Off at 11*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/02/jd-simo-off-at-11-review.html) / album review
+
+Tedeschi Trucks Band - *Signs*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/03/tedeschi-trucks-band-signs-review.html) / album review	
+
 Ryan Bingham - *American Love Song*  
 [***Glide Magazine***](https://glidemagazine.com/220246/ryan-bingham-offers-classic-bingham-with-15-song-journey-american-love-song-album-review/) / album review
 
