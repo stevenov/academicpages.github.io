@@ -11,7 +11,7 @@ Townes Van Zandt - *Sky Blue*
 [***Albumism***](https://www.albumism.com/reviews/townes-van-zandt-sky-blue) / album review
 
 John Mayall - *Nobody Told Me*  
-[***Glide Magazine***](https://glidemagazine.com/220246/ryan-bingham-offers-classic-bingham-with-15-song-journey-american-love-song-album-review/) / album review
+[***Glide Magazine***](https://glidemagazine.com/220710/godfather-of-british-blues-john-mayall-strikes-a-nerve-with-nobody-told-me-album-review/) / album review
 
 Lonesome Shack - *Desert Dreams*  
 [***Glide Magazine***](https://glidemagazine.com/221049/lonesome-shack-prove-high-concept-contemporary-on-desert-dreams-album-review/) / album review
