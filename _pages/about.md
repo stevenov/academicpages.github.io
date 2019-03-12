@@ -18,4 +18,6 @@ I recently returned to music writing, reviewing albums and interviewing artists 
 
 I also co-host/co-produce the [Indoor Voices podcast](https://indoorvoicespodcast.com/), with [Kathleen Collins](https://katcoindustries.wordpress.com/). The podcast features interviews with CUNY colleagues about their work.
 
+I [wrote about hockey](http://web.archive.org/web/20140222055933/http://www.puckupdate.com/) for over a decade.
+
 This site collects my work. 
