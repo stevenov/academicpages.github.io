@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+"Muddy Waters’ ‘Folk Singer’ Turns 55"  
+[***Albumism***](https://www.albumism.com/features/muddy-waters-folk-singer-turns-55-anniversary-retrospective) / album retrospective
+
+Mary Lane - *Travelin' Woman*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-2-mary-lane-travelin-woman-review-ec3dad28ea8e) / album review
+
+Alexis P. Suter Band - *Be Love*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/04/alexis-p-suter-band-be-love-review.html) / album review
+
+Atomic Road Kings - *Clean Up the Blood*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-1-atomic-road-kings-clean-up-the-blood-review-c68a6c28b4ca) / album review
+
+Manx Marriner Mainline - *Hell Bound for Heaven*  
+[***American Blues Scene***](https://www.americanbluesscene.com/manx-marriner-mainline-are-hell-bound-for-heaven/) / album review
+
+Matt Andersen - *Halfway Home By Morning*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/04/matt-andersen-halfway-home-by-morning-review.html) / album review
+
 Austin Meade - *Waves*  
 [***No Depression***](https://www.nodepression.com/album-reviews/austin-meade-puts-grunge-vibe-to-fresh-use/) / album review
 
