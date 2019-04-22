@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Bohannons - *Bloodroot*  
+[***Albumism***](https://www.albumism.com/reviews/bohannons-bloodroot) / album review
+
+Brandon Santini - *The Longshot*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-3-brandon-santini-the-longshot-review-69a5b55e5c57) / album review
+
+Yawpers - *Human Question*  
+[***Albumism***](https://www.albumism.com/reviews/the-yawpers-human-question) / album review
+
+Ally Venable Band - *Texas Honey*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-4-ally-venable-band-texas-honey-review-58da67e999f1) / album review
+
+Shane Dwight - *No One Loves Me Better*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/04/shane-dwight-blues-band-no-one-loves-me-better-review.html) / album review
+
+Erya Lyytinen - *Another World*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/04/erja-lyytinen-another-world-review.html) / album review
+
 "Muddy Waters’ ‘Folk Singer’ Turns 55"  
 [***Albumism***](https://www.albumism.com/features/muddy-waters-folk-singer-turns-55-anniversary-retrospective) / album retrospective
 
