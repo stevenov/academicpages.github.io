@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Felice Brothers - *Undress*  
+[***No Depression***](https://www.nodepression.com/album-reviews/the-felice-brothers-bring-surprises-and-a-sense-of-place-to-undress/) / album review
+
+Shlomo Franklin - *Apt. 16*  
+[***No Depression***](https://www.nodepression.com/album-reviews/shlomo-franklin-debut-lp-carves-a-distinct-space/) / album review
+
+"Tom Petty’s Debut Solo Album ‘Full Moon Fever’ Turns 30"  
+[***Albumism***](https://www.albumism.com/features/tom-petty-debut-solo-album-full-moon-fever-turns-30-anniversary-retrospective) / album retrospective
+
+Joanne Shaw Taylor - *Reckless Heart*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/04/joanne-shaw-taylor-reckless-heart-review.html) / album review
+
+Bear's Den - *So That You Might Hear Me	*  
+[***Glide Magazine***](https://glidemagazine.com/223862/bears-den-hits-a-musical-pivot-with-atmospheric-you-might-hear-me-album-review/) / album review
+
+Stef Paglia - *Never Forget*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/05/stef-paglia-never-forget-review.html) / album review
+
 Bohannons - *Bloodroot*  
 [***Albumism***](https://www.albumism.com/reviews/bohannons-bloodroot) / album review
 
