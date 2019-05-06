@@ -16,7 +16,7 @@ Shlomo Franklin - *Apt. 16*
 Joanne Shaw Taylor - *Reckless Heart*  
 [***Blues Rock Review***](http://bluesrockreview.com/2019/04/joanne-shaw-taylor-reckless-heart-review.html) / album review
 
-Bear's Den - *So That You Might Hear Me	*  
+Bear's Den - *So That You Might Hear Me*  
 [***Glide Magazine***](https://glidemagazine.com/223862/bears-den-hits-a-musical-pivot-with-atmospheric-you-might-hear-me-album-review/) / album review
 
 Stef Paglia - *Never Forget*  
