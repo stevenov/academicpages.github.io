@@ -4,6 +4,19 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+"Stevie Ray Vaughan and Double Trouble’s ‘Couldn’t Stand the Weather’ Turns 35"  
+[***Albumism***](https://www.albumism.com/features/stevie-ray-vaughan-and-double-trouble-couldnt-stand-the-weather-turns-35-anniversary-retrospective) / album retrospective
+
+Christone “Kingfish” Ingram - *Kingfish*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/05/christone-kingfish-ingram-kingfish-review.html) / album review
+
+Leo Bud Welch - *The Angels In Heaven Done Signed My Name*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-5-leo-bud-welch-the-angels-in-heaven-done-signed-my-name-review-c79de4039b6b) / album review
+
+Bob Corritore & Friends - *Do the Hip-Shake Baby*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-6-bob-corritore-friends-do-the-hip-shake-baby-review-8df7f5d8f769
+) / album review
+
 Felice Brothers - *Undress*  
 [***No Depression***](https://www.nodepression.com/album-reviews/the-felice-brothers-bring-surprises-and-a-sense-of-place-to-undress/) / album review
 
