@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Duff McKagan - *Tenderness*  
+[***Glide Magazine***](https://glidemagazine.com/226331/duff-mckagan-teams-up-with-shooter-jennings-for-americana-slanted-tenderness/) / album review
+
+Bloodest Saxophone - *Texas Queens 5*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-7-bloodest-saxophone-texas-queens-5-review-cd1844ff5b8c) / album review
+
+Mavis Staples - *We Get By*  
+[***Albumism***](https://www.albumism.com/reviews/mavis-staples-we-get-by) / album review
+
+"Stevie Ray Vaughan and Double Trouble’s ‘In Step’ Turns 30"  
+[***Albumism***](https://www.albumism.com/features/stevie-ray-vaughan-and-double-trouble-in-step-turns-30-anniversary-retrospective) / album retrospective
+
+Matt Pearce & The Mutiny - *Gotta Get Home*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/05/matt-pearce-and-the-mutiny-gotta-get-home-review.html) / album review
+
+Adam Holt - *Kind of Blue*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/06/adam-holt-kind-of-blues-review.html) / album review
+
 "Stevie Ray Vaughan and Double Trouble’s ‘Couldn’t Stand the Weather’ Turns 35"  
 [***Albumism***](https://www.albumism.com/features/stevie-ray-vaughan-and-double-trouble-couldnt-stand-the-weather-turns-35-anniversary-retrospective) / album retrospective
 
