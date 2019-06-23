@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+"Why It’s Finally Time to Get Rid of Music Charts"  
+[***Consequence of Sound***](https://consequenceofsound.net/2019/06/why-its-finally-time-to-get-rid-of-music-charts/) / essay
+
+Drivin N Cryin - *Live the Love Beautiful*  
+[***No Depression***](https://www.nodepression.com/album-reviews/drivin-n-cryin-grows-up-without-going-away/) / album review
+
+Dennis Brennan & the White Owls- *Live at Electric Andyland*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-8-dennis-brennan-the-white-owls-live-at-electric-andyland-review-9182b7019379) / album review
+
+Diana Rein- *Queens of My Castle*  
+[***American Blues Scene***](https://www.americanbluesscene.com/diana-rein-queen-of-my-castle/) / album review
+
 Duff McKagan - *Tenderness*  
 [***Glide Magazine***](https://glidemagazine.com/226331/duff-mckagan-teams-up-with-shooter-jennings-for-americana-slanted-tenderness/) / album review
 
