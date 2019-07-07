@@ -4,6 +4,21 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Black Keys - *Let's Rock*  
+[***Glide Magazine***](https://glidemagazine.com/227916/the-black-keys-offer-survey-of-earlier-catalog-through-comeback-lp-lets-rock-album-review/) / album review
+
+Jontavious Willis - *Spectacular Class*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/06/jontavious-willis-spectacular-class-review.html) / album review
+
+Tim Baker - *Forever Overhead*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-9-tim-baker-forever-overheard-review-516e7903bf50) / album review
+
+Michael Lee - *Michael Lee*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/06/michael-lee-michael-lee-review.html) / album review
+
+Ranky Tanky - *Stand By Me* EP  
+[***American Blues Scene***](https://www.americanbluesscene.com/ranky-tanky-preserves-gullah-music-with-new-ep/) / album review
+
 "Why It’s Finally Time to Get Rid of Music Charts"  
 [***Consequence of Sound***](https://consequenceofsound.net/2019/06/why-its-finally-time-to-get-rid-of-music-charts/) / essay
 
