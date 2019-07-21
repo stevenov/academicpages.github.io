@@ -4,6 +4,15 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Joanne Shaw Taylor  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/07/joanne-shaw-taylor-interview-2.html) / interview
+
+BB King Band - *A Tribute to The King*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-10-the-bb-king-blues-band-the-soul-of-the-king-review-65136f209565) / album review
+
+Eric Tessmer - *EP 2*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/07/eric-tessmer-ep-2-review.html) / album review
+
 Black Keys - *Let's Rock*  
 [***Glide Magazine***](https://glidemagazine.com/227916/the-black-keys-offer-survey-of-earlier-catalog-through-comeback-lp-lets-rock-album-review/) / album review
 
