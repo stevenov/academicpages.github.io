@@ -20,7 +20,7 @@ Mindi Abair and the Boneshakers - *No Good Deed*
 [***Blues Rock Review***](http://bluesrockreview.com/2019/07/mindi-abair-and-the-boneshakers-no-good-deed-review.html) / album review
 
 Gracie Currran - *Come Undone*  
-[***American Blues Scene***](hhttps://www.americanbluesscene.com/gracie-curran-friends-come-undone) / album review
+[***American Blues Scene***](https://www.americanbluesscene.com/gracie-curran-friends-come-undone) / album review
 
 Big Daddy T - *Judas Goat*  
 [***Heard Lately***](https://medium.com/heard-lately/heard-lately-11-big-daddy-t-judas-goat-review-791d17be39dc) / album review
