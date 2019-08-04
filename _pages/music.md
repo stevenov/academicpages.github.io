@@ -4,6 +4,30 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Bryan Haraway - *Bryan Haraway*  
+[***Albumism***](https://www.albumism.com/reviews/bryan-haraway-bryan-haraway) / album review	
+
+Bird and the Bee - *Interpreting the Masters Volume 2: A Tribute to Van Halen*  
+[***Glide Magazine***](https://glidemagazine.com/229726/the-bird-and-the-bee-shine-on-interpreting-the-masters-volume-2-a-tribute-to-van-halen-album-review/) / album review
+
+Left Lane Cruiser - *Shake and Bake*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-12-left-lane-cruiser-shake-and-bake-review-929884159f0c?sk=3915e536f45d065ac0a11a5756630bb6) / album review
+
+Brad James - *At Fellowship Hall*  
+[***American Blues Scene***](https://www.americanbluesscene.com/brad-james-band-at-fellowship-hall/) / album review
+
+Mindi Abair and the Boneshakers - *No Good Deed*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/07/mindi-abair-and-the-boneshakers-no-good-deed-review.html) / album review
+
+Gracie Currran - *Come Undone*  
+[***American Blues Scene***](hhttps://www.americanbluesscene.com/gracie-curran-friends-come-undone) / album review
+
+Big Daddy T - *Judas Goat*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-11-big-daddy-t-judas-goat-review-791d17be39dc) / album review
+
+Griff Hamlin and the Single Barrel Blues Band - *I'll Drink To That*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/08/griff-hamlin-and-the-single-barrel-blues-band-ill-drink-to-that-review.html) / album review	
+
 Joanne Shaw Taylor  
 [***Blues Rock Review***](http://bluesrockreview.com/2019/07/joanne-shaw-taylor-interview-2.html) / interview
 
