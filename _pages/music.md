@@ -4,8 +4,8 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
-awThorns - *Morning Sun*  
-[***Albumism***](https://www.albumism.com/reviews/the-hawtthorns-morning-sun) / album review	
+HawThorns - *Morning Sun*  
+[***Albumism***](https://www.albumism.com/reviews/the-hawtthorns-morning-sun) / album review
 
 Amy LaVere - *Painting Blues*  
 [***No Depression***](https://www.nodepression.com/album-reviews/contrasts-create-a-beautiful-picture-on-amy-laveres-painting-blue/) / album review	
