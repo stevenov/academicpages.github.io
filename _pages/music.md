@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+awThorns - *Morning Sun*  
+[***Albumism***](https://www.albumism.com/reviews/the-hawtthorns-morning-sun) / album review	
+
+Amy LaVere - *Painting Blues*  
+[***No Depression***](https://www.nodepression.com/album-reviews/contrasts-create-a-beautiful-picture-on-amy-laveres-painting-blue/) / album review	
+
+"Red Hot Chili Peppers’ ‘Mother’s Milk’ Turns 30 | Anniversary Retrospective"  
+[***Albumism***](https://www.albumism.com/features/red-hot-chili-peppers-mothers-milk-turns-30-anniversary-retrospective) / album retrospective	
+
+Big Daddy Wilson - *Deep in My Soul*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-13-big-daddy-wilson-deep-in-my-soul-review-17b11328ca2d?sk=58b48ab0b91b8b5779a8b613833194a6) / album review
+
 Bryan Haraway - *Bryan Haraway*  
 [***Albumism***](https://www.albumism.com/reviews/bryan-haraway-bryan-haraway) / album review	
 
@@ -207,7 +219,7 @@ Seth Rosenbloom	- *Keep On Turning*
 [***Albumism***](https://www.albumism.com/reviews/seth-rosenbloom-keep-on-turning) / album review
 
 Chris O'Leary - *7 Minutes Late*  
-[***No Depression***](http://nodepression.com/album-review/chris-olearys-7-minutes-late-wonderful-shot-nervous-system) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/chris-olearys-7-minutes-late-is-a-wonderful-shot-to-the-nervous-system/) / album review
 
 Kentucky Headhunters - *Live At The Ramblin' Man Fair*  
 [***American Blues Scene***](https://www.americanbluesscene.com/the-kentucky-headhunters-come-out-swingin-live-at-the-ramblin-man-fair/) / album review	
@@ -246,13 +258,13 @@ GospelbeacH - *Another Winter Alive*
 [***Glide Magazine***](https://glidemagazine.com/217341/gospelbeach-shine-up-unreleased-outtakes-live-tracks-on-another-winter-alive/) / album review
 
 Paul Oscher - *Cool Cat*  
-[***No Depression***](http://nodepression.com/album-review/paul-oscher-draws-comfort-blues-cool-cat) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/paul-oscher-draws-comfort-from-the-blues-with-cool-cat/) / album review
 
 Lightfoils - *Chambers*  
 [***Albumism***](https://www.albumism.com/reviews/lightfoils-chambers) / album review
 
 Johnny and Jaalene - *Johnny and Jaalene*  
-[***No Depression***](http://nodepression.com/album-review/johnny-and-jaalene-explore-sounds-50s) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/johnny-and-jaalene-explore-the-sounds-of-the-50s/) / album review
 
 Joe Louis Walker, Bruce Katz, Giles Robson - *Journeys To The Heart Of The Blues*  
 [***American Blues Scene***](https://www.americanbluesscene.com/walker-katz-and-robson-take-us-on-journeys-to-the-heart-of-the-blues/) / album review
@@ -267,13 +279,13 @@ Cary Morin - *When I Rise*
 [***American Blues Scene***](https://www.americanbluesscene.com/cary-morin-demonstrates-simple-beauty-on-when-i-rise/) / album review
 
 Old Riley and the Water	- *Biting Through*  
-[***No Depression***](http://nodepression.com/album-review/old-riley-and-water-are-smaller-grateful-dead) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/old-riley-and-the-water-are-a-smaller-grateful-dead/) / album review
 
 Dennis Roger Reed - *Before It Was Before*  
 [***Elmore Magazine***](http://www.elmoremagazine.com/2018/11/reviews/albums/dennis-roger-reed) / album review
 
 Bryan Lee - *Sanctuary*  
-[***No Depression***](http://nodepression.com/album-review/bryan-lee-finds-sanctuary-without-sanctimony) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/bryan-lee-finds-sanctuary-without-the-sanctimony/) / album review
 
 Sean Chambers - *Welcome to My Blues*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/10/sean-chambers-welcome-to-my-blues-review.html) / album review
@@ -282,10 +294,10 @@ Colin James - *Miles to Go*
 [***American Blues Scene***](https://www.americanbluesscene.com/colin-james-has-miles-to-go/) / album review
 
 Charlie Treat - *Charlie Treat*  
-[***No Depression***](http://nodepression.com/album-review/scuffed-and-polished-beauty-charlie-treat) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/the-scuffed-and-polished-beauty-of-charlie-treat/) / album review
 
 Handsome Jack - *Everything's Gonna Be Alright*  
-[***No Depression***](http://nodepression.com/album-review/handsome-jack-song-powered-trio) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/handsome-jack-a-song-powered-trio/) / album review
 
 Tony Joe White - *Bad Mouthin'*  
 [***Albumism***](https://www.albumism.com/reviews/tony-joe-white-bad-mouthin) / album review
@@ -302,8 +314,8 @@ Sari Schorr - *Never Say Never*
 Cedric Burnside - *Benton County Relic*  
 [***Glide Magazine***](https://glidemagazine.com/212979/cedric-burnside-proves-fearless-on-benton-county-relic-album-review/) / album review
 
-Rob Spencer Band - *Into the Blue*  
-[***No Depression***](http://nodepression.com/album-review/ron-spencer-bands-jukebox-collective-consciousness-makes-great-blues-rock) / album review
+Ron Spencer Band - *Into the Blue*  
+[***No Depression***](https://www.nodepression.com/album-reviews/ron-spencer-bands-jukebox-of-the-collective-consciousness-makes-for-great-blues-rock/) / album review
 
 Scott Sharrard - *Saving Grace*  
 [***Elmore Magazine***](http://www.elmoremagazine.com/2018/09/reviews/albums/scott-sharrard) / album review
@@ -324,7 +336,7 @@ Blue and Lonesome Duo - *Pacing the Floor*
 [***American Blues Scene***](https://www.americanbluesscene.com/ian-saddler-and-building-ace-records-by-the-bayou/) / profile
 
 Jonathan Long - *Jonathan Long*  
-[***No Depression***](http://nodepression.com/album-review/samantha-fish-leads-jonathan-long-through-beautiful-surprises) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/samantha-fish-leads-jonathan-long-through-beautiful-surprises/) / album review
 
 Steve Krase Band - *Just Waitin'*  
 [***American Blues Scene***](https://www.americanbluesscene.com/steve-krase-bands-just-waitin-is-a-fun-tour-through-blues-rockabilly-and-more/) / album review
@@ -400,7 +412,7 @@ CeCe Teneal and Soul Kamotion - *#5or5000*
 [***Festival Peak***](https://festivalpeak.com/cece-teneal-and-soul-kamotion-soar-like-the-blue-angels-85fc279882a) / album review
 
 Bob Corritore & Friends	- *Don’t Let The Devil Drive*  
-[***No Depression***](http://nodepression.com/album-review/bob-corritore-friends-create-perfect-throwback-blues-album) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/bob-corritore-friends-create-a-perfect-throwback-blues-album/) / album review
 
 Fantastic Negrito - *Please Don’t Be Dead*  
 [***American Blues Scene***](https://www.americanbluesscene.com/fantastic-negrito-true-his-voice-with-please-dont-be-dead-2k/) / album review
@@ -469,16 +481,15 @@ Ghost Town Blues Band - *Backstage Pass*
 Albert Cummings   
 [***Blues Rock Review***](http://bluesrockreview.com/2018/03/albert-cummings-interview.html) / interview
 
-
 Marcus Randolph - *Transplant*  
-[***No Depression***](http://nodepression.com/album-review/transplant-takes-listeners-exciting-place) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/transplant-takes-listeners-to-an-exciting-place/) / album review
 
 Reverend Raven and the Chain Smoking Altar Boys - 
 *My Life*  
 [***American Blues Scene***](https://www.americanbluesscene.com/reverend-raven-chain-smokin-alter-boys-nail-it/) / album review
 
 Michelle Malone  - *Slings and Arrows*  
-[***No Depression***](http://nodepression.com/album-review/michelle-malones-outrageously-good-latest) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/michelle-malones-outrageously-good-latest/) / album review
 
 Ghalia and Mama’s Boys - *Let the Demons Out*  
 [***American Blues Scene***](https://www.americanbluesscene.com/ghalia-and-mamas-boys-turn-blues-on-its-head-with-let-the-demons-out/) / album review
@@ -487,7 +498,7 @@ Lance Lopez  - *Tell the Truth*
 [***Blues Rock Review***](http://bluesrockreview.com/2018/03/lance-lopez-tell-the-truth-review.html) / album review
 
 Coco Montoya - *Hard Truth*  
-[***No Depression***](http://nodepression.com/album-review/coco-montoyas-truthful-interpretations) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/coco-montoyas-truthful-interpretations/) / album review
 
 Peter Parcek  - *Everybody Wants to Go to Heaven*  
 [***American Blues Scene***](https://www.americanbluesscene.com/peter-parcek-everybody-wants-to-go-to-heaven-real-deal/) / album review
