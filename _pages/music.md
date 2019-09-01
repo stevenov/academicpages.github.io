@@ -4,6 +4,30 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Robert Randolph and the Family Band - *Brighter Days*  
+[***Glide magazine***](https://glidemagazine.com/226292/on-brighter-days-robert-randolph-the-family-band-remain-rooted-in-the-sacred-steel-expand-to-rock-album-review/) / album review
+
+Nick Moss Band Featuring Dennis Gruenling - *Lucky Guy!*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-nick-moss-band-featuring-dennis-gruenling-lucky-guy/) / album review
+
+40 Acre Mule - *Goodnight and Good Luck*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/08/the-40-acre-mule-good-night-and-good-luck-review.html) / album review
+
+Coco Montoya - *Coming In Hot*  
+[***American Blues Scene***](https://www.americanbluesscene.com/coco-montoya-is-coming-in-hot/) / album review
+
+Charlie Wooton Project - *Blue Basso*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/08/charlie-wooton-project-blue-basso-review.html) / album review
+
+Ronnie Earl and the Broadcasters - *Beyond the Blue Door*  
+[***American Blues Scene***](https://www.americanbluesscene.com/ronnie-earl-and-the-broadcasters-go-beyond-the-blue-door/) / album review
+
+South Austin Moonlighters - *Travel Light*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-14-south-austin-moonlighters-travel-light-but-rock-hard-351cfa41e685?sk=84e4f3b4c2f5ec2a20c654d0e9079783) / album review
+
+"ALBUMISM SELECTS: 20 Music Magazines That Inspire Us"  
+[***Albumism***](https://www.albumism.com/lists/20-music-magazines-that-inspire-us) 
+
 HawThorns - *Morning Sun*  
 [***Albumism***](https://www.albumism.com/reviews/the-hawtthorns-morning-sun) / album review
 
