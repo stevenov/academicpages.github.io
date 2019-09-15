@@ -4,6 +4,25 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Sheryl Crow - *Threads*  
+[***Albumism***](https://www.albumism.com/reviews/sheryl-crow-threads) / album review
+
+Samantha Fish - *Kill Or Be Kind*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/09/samantha-fish-kill-or-be-kind-review.html) / album review
+
+
+Lee Moses - *How Much Longer Must I Wait? Singles & Rarities 1965–1972*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-15-lee-moses-all-too-rare-rarities-637c50afbe93) / album review
+
+Danny Bryant - *Means of Escape*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/09/danny-bryant-means-of-escape-review.html) / album review
+
+Vandoliers - *Forever*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-16-vandoliers-show-grit-and-effort-are-not-enemies-25253c5be8fd?sk=7adcec28afa380cfb6969a5c78749ecf) / album review
+
+Seth James- *Good Life*  
+[***American Blues Scene***](https://www.americanbluesscene.com/seth-james-good-life/) / album review
+
 Robert Randolph and the Family Band - *Brighter Days*  
 [***Glide magazine***](https://glidemagazine.com/226292/on-brighter-days-robert-randolph-the-family-band-remain-rooted-in-the-sacred-steel-expand-to-rock-album-review/) / album review
 
@@ -403,7 +422,7 @@ Tyler Morris - *Next in Line*
 [***Glide Magazine***](https://glidemagazine.com/209937/singer-songwriter-shlomo-franklin-defies-convention-debut-ep-dont-love-anybody-interview/) / profile
 
 Phil Cook - *People Are My Drug*  
-[***No Depression***](http://nodepression.com/album-review/phil-cook-shows-joys-negative-space) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/phil-cook-shows-the-joys-of-negative-space/) / album review
 
 John Clifton - *Nightlife*  
 [***American Blues Scene***](https://www.americanbluesscene.com/john-cliftons-nightlife-is-raw-and-powerful-3so/) / album review
