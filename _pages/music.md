@@ -4,6 +4,18 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Brittany Howard - *Jamie*  
+[***Glide magazine***](https://glidemagazine.com/232598/brittany-howard-make-solo-debut-with-ethereal-electronic-soulful-jamie-album-review/) / album review
+
+Michaela Anne - *Desert Dove*  
+[***Albumism***](https://www.albumism.com/reviews/michaela-anne-desert-dove) / album review
+
+Beth Hart - *War In My Mind*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/09/beth-hart-war-in-my-mind-review.html) / album review
+
+"R.E.M.’s ‘Monster’ Turns 25:  
+[***Albumism***](https://www.albumism.com/features/rem-monster) / album retrospective
+
 Sheryl Crow - *Threads*  
 [***Albumism***](https://www.albumism.com/reviews/sheryl-crow-threads) / album review
 
