@@ -4,6 +4,21 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Kelsey Waldon - *White Noise/White Lines*  
+[***Albumism***](https://www.albumism.com/reviews/kelsey-waldon-white-noise-white-lines) / album review
+
+Massy Ferguson - *Great Divides*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-17-massy-ferguson-uses-sincerity-as-a-weapon-fe18c1712c6e?sk=089c51b3976e27b689d374234c14aab1) / album review
+
+Stephen Clair - *Strange Perfume*  
+[***Glide magazine***](https://glidemagazine.com/234876/stephen-clair-offers-ideal-homage-to-garage-rock-via-strange-perfume-album-review/) / album review
+
+J.P. Soars - *Let It Rein*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/10/j-p-soars-let-go-of-the-reins-review.html) / album review
+
+The Paul Deslauriers Band - *Bounce*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/10/paul-deslauriers-band-bounce-review.html) / album review
+
 Brittany Howard - *Jamie*  
 [***Glide magazine***](https://glidemagazine.com/232598/brittany-howard-make-solo-debut-with-ethereal-electronic-soulful-jamie-album-review/) / album review
 
