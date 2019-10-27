@@ -4,6 +4,19 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+GA-20 - *Lonely Soul*  
+[***Glide magazine***](https://glidemagazine.com/235484/on-lonely-soul-ga-20-swings-up-classic-blues-garage-rock-album-review/) / album review
+
+Mark Lanegan Band - *Somebody's Knocking*  
+[***Glide magazine***](https://glidemagazine.com/235227/mark-lanegan-band-tries-on-electronic-new-wave-glances-on-somebodys-knocking/) / album review
+
+Eddie 9V - *Left My Soul in Memphis*  
+[***American Blues Scene***](https://www.americanbluesscene.com/eddie-9v-left-my-soul-in-memphis/) / album review
+
+Albert Castiglia - *Masterpiece*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-18-albert-castiglias-re-imagining-of-blues-rock-4553b4ef90fa?sk=af7bf7467ea125a2f0604102f010baea
+) / album review
+
 Kelsey Waldon - *White Noise/White Lines*  
 [***Albumism***](https://www.albumism.com/reviews/kelsey-waldon-white-noise-white-lines) / album review
 
@@ -509,7 +522,7 @@ Mike Zito - *First Class Life*
 [***Festival Peak***](https://festivalpeak.com/mike-zitos-first-class-life-is-a-mixtape-made-from-scratch-6d80966029d6) / album review
 
 Shlomo Franklin - *Don't Love Anybody EP*  
-[***No Depression***](http://nodepression.com/album-review/shlomo-franklin-mines-emotional-gold) / album review
+[***No Depression***](/pdf/nd.shlomofranklin.5.28.18.pdf) / album review
 
 Jeff Plankenhorn - *Sleeping Dogs*  
 [***Blues Rock Review***](http://bluesrockreview.com/2018/05/jeff-plankenhorn-sleeping-dogs-review.html) / album review
