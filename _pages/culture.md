@@ -8,4 +8,4 @@ author_profile: true
 [***High Steaks Media***](https://www.highsteaksmedia.com/news/lunch-on) / essay
 
 The Office Supplies Your Workplace Will Want to Steal From You  
-*[Daily Beast](https://www.thedailybeast.com/the-stylish-organization-tools-you-cant-live-without)* / article
+***[Daily Beast](https://www.thedailybeast.com/the-stylish-organization-tools-you-cant-live-without)*** / article
