@@ -4,6 +4,33 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Have Gun, Will Travel - *Strange Chemistry*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-19-have-gun-will-travel-capture-the-relaxation-of-america-658b2314d869?sk=e4ace3db6c8b4fafd9663c644e253e6a) / album review
+
+Neil Young & Crazy Horse’s ‘Live Rust’ Turns 40 | Anniversary Retrospective  
+[***Albumism***](https://www.albumism.com/features/neil-young-and-crazy-horse-live-rust-turns-40-anniversary-retrospective) / album retrospective
+
+Joanna Connor - *Rise*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/11/joanna-connor-rise-review.html) / album review
+
+Tom Petty’s ‘Wildflowers’ Turns 25 | Anniversary Retrospective  
+[***Albumism***](https://www.albumism.com/features/tom-petty-wildflowers-turns-25-anniversary-retrospective) / album retrospective
+
+Brody Buster’s One Man Band - *Damn! I Spilled the Blues*  
+[***American Blues Scene***](https://www.americanbluesscene.com/brody-busters-one-man-band-damn-i-spilled-the-blues/) / album review
+
+Eric Clapton’s ‘Journeyman’ Turns 30 | Anniversary Retrospective  
+[***Albumism***](https://www.albumism.com/features/eric-clapton-journeyman-turns-30-anniversary-retrospective) / album retrospective
+
+Lizanne Knott - *Bones and Gravity*  
+[***American Blues Scene***](https://www.americanbluesscene.com/lizanne-knott-bones-and-gravity/) / album review
+
+Mike Zito - *Rock N Roll: A Tribute to Chuck Berry*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/10/mike-zito-and-friends-rock-n-roll-a-tribute-to-chuck-berry-review.html) / album review
+
+Ghost Hounds - *Roses Are Black*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/11/ghost-hounds-roses-are-black-review.html) / album review
+
 GA-20 - *Lonely Soul*  
 [***Glide magazine***](https://glidemagazine.com/235484/on-lonely-soul-ga-20-swings-up-classic-blues-garage-rock-album-review/) / album review
 
