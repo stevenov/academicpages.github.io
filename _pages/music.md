@@ -4,6 +4,24 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
+Ben Lee - *Quarter Century Classix*  
+[***Glide magazine***](https://glidemagazine.com/236900/ben-lee-re-imagines-sonic-youth-fugazi-gbv-more-on-quarter-century-classix-album-review/) / album review
+
+Scott H. Biram - *Sold Out to the Devil: A Collection of Gospel Cuts by the Rev. Scott H. Biram*  
+[***Glide magazine***](https://glidemagazine.com/236767/scott-h-biram-shines-on-sold-out-to-the-devil-a-collection-of-gospel-cuts-by-the-rev-scott-h-biram/) / album review
+
+John Frusciante’s Debut Solo Album ‘Niandra LaDes and Usually Just a T-Shirt’ Turns 25 | Anniversary Retrospective  
+[***Albumism***](https://www.albumism.com/features/john-frusciante-debut-solo-album-niandra-lades-and-usually-just-a-t-shirt-turns-25-anniversary-retrospective) / album retrospective
+
+Nicholas David - *Yesterday's Gone*  
+[***American Blues Scene***](https://www.americanbluesscene.com/nicholas-david-yesterdays-gone/) / album review
+
+Kamchatka - *Hoodoo Lightning*  
+[***Blues Rock Review***](http://bluesrockreview.com/2019/11/kamchatka-hoodoo-lightning-review.html) / album review
+
+Bob Margolin - *This Guitar and Tonight*  
+[***American Blues Scene***](https://www.americanbluesscene.com/bob-margolin-this-guitar-and-tonight/) / album review
+
 Have Gun, Will Travel - *Strange Chemistry*  
 [***Heard Lately***](https://medium.com/heard-lately/heard-lately-19-have-gun-will-travel-capture-the-relaxation-of-america-658b2314d869?sk=e4ace3db6c8b4fafd9663c644e253e6a) / album review
 
