@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-Contact me via steven @ this domain.
+Contact me via steven @ my last name .org.
