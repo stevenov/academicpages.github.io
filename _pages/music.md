@@ -4,7 +4,7 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
-[2018](https://ovadia.org/music/2018) | 2019
+Older reviews: [2018](https://ovadia.org/music/2018) / 2019
 
 Erisy Watt - *Paints in the Sky*  
 [***Heard Lately***](https://medium.com/heard-lately/heard-lately-20-the-many-moods-of-erisy-watt-828d9f5ef65a?sk=b148a1bb8b99561a61ee4d46ef96462d019/11/kamchatka-hoodoo-lightning-review.html) / album review
