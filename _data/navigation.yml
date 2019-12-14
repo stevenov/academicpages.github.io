@@ -8,6 +8,8 @@ main:
 
   - title: "Music writing"
     url: /music/    
+	- page: 2018
+	  url: /music/2018/ 
     
   - title: "Technology writing"
     url: /tech/
