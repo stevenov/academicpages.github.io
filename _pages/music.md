@@ -6,6 +6,27 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Van Halen’s Balance Hinted at a Return to Heavier Music That Never Happened  
+[***Consequence of Sound***](hhttps://consequenceofsound.net/2020/01/van-halen-balance-anniversary/) / album retrospective
+
+Dustbowl Revival - *Is It You, Is It Me*  
+[***No Depression***](https://www.nodepression.com/album-reviews/dustbowl-revivals-eclectic-blend-adds-up-to-broad-appeal/) / album review	
+
+Tame Imapala - *Slow Rush*  
+[***Northern Transmissions***](https://northerntransmissions.com/the-slow-rush-tame-impala/) / album review	
+
+Tinsley Ellis - *Ice Cream in Hell*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/01/tinsley-ellis-ice-cream-in-hell-review.html) / album review	
+
+Cadillac Three - *Country Fuzz*  
+[***Glide magazine***](https://glidemagazine.com/239185/the-cadillac-three-get-down-to-business-on-swinging-country-fuzz-album-review/) / album review	
+
+Tom "The Suit" Forst - *World of Broken Hearts*  
+[***American Blues Scene***](https://www.americanbluesscene.com/tom-the-suit-forst-world-of-broken-hearts/) / album review	
+
+Jeremiah Johnson - *Heavens To Betsy*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/02/jeremiah-johnson-heavens-to-betsy-review.html) / album review
+
 Frank Bey - *All My Dues Are Paid*  
 [***American Blues Scene***](https://www.americanbluesscene.com/all-of-frank-beys-dues-are-paid/) / album review	
 
