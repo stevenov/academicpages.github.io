@@ -7,7 +7,7 @@ author_profile: true
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
 Van Halen’s Balance Hinted at a Return to Heavier Music That Never Happened  
-[***Consequence of Sound***](hhttps://consequenceofsound.net/2020/01/van-halen-balance-anniversary/) / album retrospective
+[***Consequence of Sound***](https://consequenceofsound.net/2020/01/van-halen-balance-anniversary/) / album retrospective
 
 Dustbowl Revival - *Is It You, Is It Me*  
 [***No Depression***](https://www.nodepression.com/album-reviews/dustbowl-revivals-eclectic-blend-adds-up-to-broad-appeal/) / album review	
