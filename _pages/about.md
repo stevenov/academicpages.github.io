@@ -14,7 +14,7 @@ I'm Professor/Deputy Chief Librarian at LaGuardia Community College. My academic
 
 I also write about technology for wider audiences, concentrating on free and open source software. [The Linux Setup](https://linuxrig.com/the-linux-setup/) is my collection of interviews with desktop Linux users about their Linux setups. My book, *[Learn Linux in a Month of Lunches](http://manning.com/ovadia)*, teaches non-technical users how to use Linux for everyday tasks.
 
-I recently returned to music writing, reviewing albums and interviewing artists across genres, but concentrating on blues and Americana. [*Heard Lately*](http://www.heardlately.com/) is a new project, where I write about less-than-new releases.
+I recently returned to music writing, reviewing albums and interviewing artists across genres, but concentrating on blues and Americana. [*Heard Lately*](http://www.heardlately.com/) is my latest project, where I write about less-than-new releases.
 
 I also co-host/co-produce the [Indoor Voices podcast](https://indoorvoicespodcast.com/), with [Kathleen Collins](https://katcoindustries.wordpress.com/). The podcast features interviews with CUNY colleagues about their work.
 
