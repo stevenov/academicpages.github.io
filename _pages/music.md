@@ -6,6 +6,18 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Robert Vincent - *In This Town You’re Owned*  
+[***Glide magazine***](https://glidemagazine.com/239863/liverpools-robert-vincent-crafts-sublime-piece-of-americana-on-warm-in-this-town-youre-owned-album-review/) / album review
+
+Tennis - *Swimmer*  
+[***Northern Transmissions***](https://northerntransmissions.com/swimmer-tennis/) / album review
+
+The Reverend Peyton's Big Damn Band - *Poor Until Payday*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-25-reverend-peytons-big-damn-band-warps-time-9850d6c3be9d?source=friends_link&sk=ed84c412d0069d0a78f1f533d6c41113) / album review
+
+Thorbjørn Risager & The Black Tornado - *Come On In*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/02/thorbjorn-risager-the-black-tornado-come-on-in-review.html) / album review
+
 Van Halen’s Balance Hinted at a Return to Heavier Music That Never Happened  
 [***Consequence of Sound***](https://consequenceofsound.net/2020/01/van-halen-balance-anniversary/) / album retrospective
 
