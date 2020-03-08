@@ -6,6 +6,31 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Soccer Mommy - *Color Theory*  
+[***Albumism***](https://www.albumism.com/reviews/soccer-mommy-color-theory) / album review
+
+Ozzy Osbourne - *Ordinary Man*  
+[***Glide Magazine***](https://glidemagazine.com/240334/ozzy-osbourne-breaks-from-expected-metal-formula-on-ordinary-man-album-review/) / album review
+
+Kyshona - *Listen*  
+[***Albumism***](https://www.albumism.com/reviews/kyshona-listen) / album review
+
+
+Will Sexton - *Don’t Walk in Darkness*  
+[***American Blues Scene***](https://www.americanbluesscene.com/will-sexton-dont-walk-the-darkness/) / album review
+
+Anna Calvi - *Hunted*  
+[***Northern Transmissions***](https://northerntransmissions.com/hunted-anna-calvi/) / album review
+
+Sean Pinchin - *Bad Things*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-26-sean-pinchins-bad-things-is-bluesy-ear-candy-ec8ed9733a39?source=friends_link&sk=889a49e06b6b37eaff736e7572d18f34) / album review
+
+Rory Gallagher - *Check Shirt Wizard - Live in 77*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/03/rory-gallagher-check-shirt-wizard-live-in-77-review.html) / album review
+
+U.S Girls - *Heavy Light*  
+[***Northern Transmissions***](https://northerntransmissions.com/heavy-light-u-s-girls/) / album review
+
 Robert Vincent - *In This Town You’re Owned*  
 [***Glide magazine***](https://glidemagazine.com/239863/liverpools-robert-vincent-crafts-sublime-piece-of-americana-on-warm-in-this-town-youre-owned-album-review/) / album review
 
