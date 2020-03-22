@@ -6,6 +6,24 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Tennessee Redemption - *Tennessee Redemption*  
+[***Heard Lately***](https://medium.com/heard-lately/heard-lately-27-tennessee-redemption-shows-how-low-key-unlocks-every-door-b9be0b933300?sk=6dd3c5f79b22b2662a091f4ccbe1886b) / album review
+
+Mike Mattison - *Afterglow*  
+[***American Blues Scene***](https://www.americanbluesscene.com/mike-mattison-afterglow/) / album review
+
+King Solomon Hicks - *Harlem*  
+[***American Blues Scene***](https://www.americanbluesscene.com/king-solomon-hicks-debuts-with-harlem/) / album review
+
+Sonny Landreth - *Blacktop Run*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/03/sonny-landreth-blacktop-run-review.html) / album review
+
+Porridge Radio - *Every Bad*  
+[***Northern Transmission***](https://northerntransmissions.com/every-bad-porridge-radio/) / album review
+
+Ben Rice and RB Stone - *Out of the Box*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/03/ben-rice-and-rb-stone-out-of-the-box-review.html) / album review
+
 Soccer Mommy - *Color Theory*  
 [***Albumism***](https://www.albumism.com/reviews/soccer-mommy-color-theory) / album review
 
@@ -14,7 +32,6 @@ Ozzy Osbourne - *Ordinary Man*
 
 Kyshona - *Listen*  
 [***Albumism***](https://www.albumism.com/reviews/kyshona-listen) / album review
-
 
 Will Sexton - *Don’t Walk in Darkness*  
 [***American Blues Scene***](https://www.americanbluesscene.com/will-sexton-dont-walk-the-darkness/) / album review
