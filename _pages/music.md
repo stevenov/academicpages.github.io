@@ -6,6 +6,21 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Mark Erelli - *Blindsided*  
+[***Glide Magazine***](https://glidemagazine.com/241848/on-blindsided-mark-erelli-mixed-vivid-songwriting-with-dash-of-tom-petty-album-review/) / album review
+
+Tesla - *Five Man London Jam*  
+[***Glide Magazine***](https://glidemagazine.com/241902/telsa-proves-immune-to-ravages-of-time-on-pristine-five-man-london-jam-album-review/) / album review
+
+Backtrack Blues Band - *Your Baby Has Left*  
+[***American Blues Scene***](https://www.americanbluesscene.com/backtrack-blues-band-your-baby-has-left/) / album review
+
+Little Dragon - *New Me, Same Us*  
+[***Northern Transmissions***](https://northerntransmissions.com/new-me-same-us-little-dragon/) / album review
+
+Sleep Eazys - *Easy To Buy, Hard To Sell*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/04/the-sleep-eazys-easy-to-buy-hard-to-sell-review.html) / album review
+
 Tennessee Redemption - *Tennessee Redemption*  
 [***Heard Lately***](https://medium.com/heard-lately/heard-lately-27-tennessee-redemption-shows-how-low-key-unlocks-every-door-b9be0b933300?sk=6dd3c5f79b22b2662a091f4ccbe1886b) / album review
 
