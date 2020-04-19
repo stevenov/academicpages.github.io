@@ -6,6 +6,28 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+The Reverend Shawn Amos - *Blue Sky*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-reverend-shawn-amos-the-brotherhood-blue-sky/) / album review
+
+The Proven Ones - *You Ain't Done*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-proven-ones-you-aint-done-is-perfect-blues-and-classic-rock-swagger/) / album review
+
+Anna Burch - *If You're Dreaming*  
+[***Northern Transmissions***](https://northerntransmissions.com/if-youre-dreaming-anna-burch/) / album review
+
+Albert Castiglia - *Wild and Free*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/04/albert-castiglia-wild-and-free-review.html) / album review
+
+Crystal Shawanda - *Church House Blues*  
+[***American Blues Scene***](https://www.americanbluesscene.com/crystal-shawanda-church-house-blues/
+) / album review
+
+The Dream Syndicate - *The Universe Inside*  
+[***Northern Transmissions***](https://northerntransmissions.com/the-universe-inside-the-dream-syndicate/) / album review
+
+Mike Zito - *Quarantine Blues*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/04/mike-zito-quarantine-blues-review.html) / album review
+
 Mark Erelli - *Blindsided*  
 [***Glide Magazine***](https://glidemagazine.com/241848/on-blindsided-mark-erelli-mixed-vivid-songwriting-with-dash-of-tom-petty-album-review/) / album review
 
