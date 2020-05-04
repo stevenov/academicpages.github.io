@@ -6,6 +6,21 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Surf Rock is Dead - *Existential Playboy*  
+[***Albumism***](https://www.albumism.com/reviews/surf-rock-is-dead-existential-playboy) / album review
+
+Heather Anne Lomax - *All This Time*  
+[***Glide Magazine***](https://glidemagazine.com/242961/heather-anne-lomax-boasts-big-voice-unadorned-production-via-all-this-time-album-review/) / album review
+
+John Primer & Bob Corritore - *The Gypsy Woman Told Me*  
+[***American Blues Scene***](https://www.americanbluesscene.com/john-primer-bob-corritore-the-gypsy-woman-told-me/) / album review
+
+Car Seat Headrest - *Making a Door Less Open*  
+[***Northern Transmissions***](https://northerntransmissions.com/making-a-door-less-open-car-seat-headrest/) / album review
+
+Steepwater Band - *Turn The Wheel*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/04/steepwater-band-turn-of-the-wheel-review.html) / album review
+
 The Reverend Shawn Amos - *Blue Sky*  
 [***American Blues Scene***](https://www.americanbluesscene.com/the-reverend-shawn-amos-the-brotherhood-blue-sky/) / album review
 
