@@ -6,6 +6,37 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Mark Lanegan - *Straight Songs of Sorrow*  
+[***Glide Magazine***](https://glidemagazine.com/243275/mark-lanegan-gives-harrowing-riveting-journey-via-straight-songs-of-sorrow-album-review/) / album review
+
+Grant Dermody - *My Dony*  
+[***American Blues Scene***](https://www.americanbluesscene.com/grant-dermody-my-dony/) / album review
+
+Laura Marling - *Song For Our Daughter*  
+[***Albumism***](https://www.albumism.com/reviews/laura-marling-song-for-our-daughter) / album review
+
+Wayne Nicholson and John Campbelljohn - *Elmore's Blues*  
+[***American Blues Scene***](https://www.americanbluesscene.com/wayne-nicholson-and-john-campbelljohn-elmores-blues/) / album review
+
+Man Man - *Dream Hunting in the Valley of the In-Between*  
+[***Northern Transmissions***](https://northerntransmissions.com/dream-hunting-in-the-valley-of-the-in-between/) / album review
+
+Claudettes - *High Times in the Dark*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/05/the-claudettes-high-times-in-the-dark-review.html) / album review
+
+Perfume Genius - *Set My Heart on Fire*  
+[***Northern Transmissions***](https://northerntransmissions.com/set-my-heart-on-fire-immediately-perfume-genius/) / album review
+
+Eliza Neals - *Black Crow Moan*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/05/eliza-neals-black-crow-moan-review.html) / album review
+
+"100 Greatest Soundtracks of All Time"  
+***Albumism*** / album list
+
+* [*Pretty Woman*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-pretty-woman)
+* [*Back to the Future*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-back-to-the-future)
+* [*The Last Waltz*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-the-last-waltz)
+
 Surf Rock is Dead - *Existential Playboy*  
 [***Albumism***](https://www.albumism.com/reviews/surf-rock-is-dead-existential-playboy) / album review
 
