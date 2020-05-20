@@ -35,6 +35,7 @@ Eliza Neals - *Black Crow Moan*
 
 * [*Pretty Woman*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-pretty-woman)
 * [*Back to the Future*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-back-to-the-future)
+* [*La Bamba*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-la-bamba)
 * [*The Last Waltz*](https://www.albumism.com/lists1/100-greatest-soundtracks-of-all-time-the-last-waltz)
 
 Surf Rock is Dead - *Existential Playboy*  
