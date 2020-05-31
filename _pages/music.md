@@ -6,6 +6,30 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Teddy Thompson - *Heartbreaker Please*  
+[***Albumism***](https://www.albumism.com/reviews/teddy-thompson-heartbreaker-please) / album review
+
+The Memories - *Pickles & Pies*  
+[***Northern Transmissions***](https://northerntransmissions.com/pickles-pies-the-memories/) / album review
+
+Dirty Clergy - *In Waves*  
+[***Albumism***](https://www.albumism.com/reviews/the-dirty-clergy-in-waves) / album review
+
+Goldman Thibodeaux and the Lawtell Playboys - *La Danse à St. Ann's*  
+[***American Blues Scene***](https://www.americanbluesscene.com/goldman-thibodeaux-and-the-lawtell-playboys-la-danse-a-st-anns/) / album review
+
+Dion - *Blues With Friends*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/05/dion-blues-with-friends-review.html) / album review
+
+Owen Pallett - *Island*  
+[***Northern Transmissions***](https://northerntransmissions.com/island-owen-pallett/) / album review
+
+Jamie Williams and the Roots Collective - *Do What You Love*  
+[***American Blues Scene***](https://www.americanbluesscene.com/jamie-williams-and-the-roots-collective-do-what-you-love/) / album review
+
+Gina Sicilia - *Love Me Madly*  
+[***American Blues Scene***](https://www.americanbluesscene.com/gina-sicilia-love-me-madly/) / album review
+
 Mark Lanegan - *Straight Songs of Sorrow*  
 [***Glide Magazine***](https://glidemagazine.com/243275/mark-lanegan-gives-harrowing-riveting-journey-via-straight-songs-of-sorrow-album-review/) / album review
 
