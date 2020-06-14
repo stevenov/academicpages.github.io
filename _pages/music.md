@@ -6,6 +6,30 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Larkin Poe - *Self Made Man*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/06/larkin-poe-self-made-man-review.html) / album review
+
+Harmed Brothers - *Across the Waves*  
+[***Albumism***](https://www.albumism.com/reviews/the-harmed-brothers-across-the-waves) / album review
+
+LA Priest - *GENE*  
+[***Northern Transmissions***](https://northerntransmissions.com/gene-la-priest/) / album review
+
+Gerald McClendon - *Can't Nobody Stop Me Now*  
+[***American Blues Scene***](https://www.americanbluesscene.com/gerald-mcclendon-cant-nobody-stop-me-now/) / album review
+
+The Record Company - *Early Songs & Rarities*  
+[***American Blues Scene***](https://www.americanbluesscene.com/the-record-company-early-songs-rarities/) / album review
+
+Eddie 9V - *Way Down The Alley (Live at Blind Willie’s)*  
+[***American Blues Scene***](https://www.americanbluesscene.com/eddie-9v-way-down-the-alley-live-at-blind-willies/) / album review
+
+Stephen Dale Petit - *2020 Visions*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/06/stephen-dale-petit-2020-visions-review.html) / album review
+
+Jackie Hayes - *Take It, Leave It*  
+[***Northern Transmissions***](https://northerntransmissions.com/take-it-leave-it-jackie-hayes/) / album review
+
 Teddy Thompson - *Heartbreaker Please*  
 [***Albumism***](https://www.albumism.com/reviews/teddy-thompson-heartbreaker-please) / album review
 
