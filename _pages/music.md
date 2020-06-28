@@ -9,6 +9,30 @@ Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://ste
 <!-- Jackie Hayes - *Take It, Leave It*  
 [***Northern Transmissions***](https://northerntransmissions.com/take-it-leave-it-jackie-hayes/) / album review -->
 
+"Top 10 Stevie Ray Vaughan Songs"  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/06/top-10-stevie-ray-vaughan-songs.html) / album list
+
+Japandroids - *Massey F@$king Hall*  
+[***Albumism***](https://www.albumism.com/reviews/japandroids-massey-fing-hall) / album review
+
+Country Westerns - *Country Westerns*  
+[***Albumism***](https://www.albumism.com/reviews/country-westerns-debut-album-country-westerns) / album review
+
+Shawn Pittman - *Make It Right*  
+[***American Blues Scene***](https://www.americanbluesscene.com/shawn-pittman-make-it-right/) / album review
+
+Bananagun - *The True Story of Bananagun*  
+[***Northern Transmissions***](https://northerntransmissions.com/the-true-story-of-bananagun-bananagun/) / album review
+
+Kristen Grainger & True North - *Ghost Tattoo*  
+[***American Blues Scene***](https://www.americanbluesscene.com/kristen-grainger-true-north-ghost-tattoo/) / album review
+
+Johnny Burgin - *No Border Blues*  
+[***Blues Rock Review***](http://bluesrockreview.com/2020/06/johnny-burgin-no-border-blues-review.html) / album review
+
+Christian Lee Hutson - *Beginners*  
+[***Northern Transmissions***](https://northerntransmissions.com/beginners-christian-lee-hutson/) / album review
+
 Larkin Poe - *Self Made Man*  
 [***Blues Rock Review***](http://bluesrockreview.com/2020/06/larkin-poe-self-made-man-review.html) / album review
 
