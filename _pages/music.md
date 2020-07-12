@@ -9,6 +9,18 @@ Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://ste
 <!-- Jackie Hayes - *Take It, Leave It*  
 [***Northern Transmissions***](https://northerntransmissions.com/take-it-leave-it-jackie-hayes/) / album review -->
 
+Hurricane Ruth - *Good Life*  
+[***American Blues Scene***](https://www.americanbluesscene.com/hurricane-ruth-good-life/) / album review
+
+Soko - *Feel Feelings*  
+[***Northern Transmissions***](https://northerntransmissions.com/feel-feelings-soko/) / album review
+
+Michael Mills Band - *Stand Up*  
+[***American Blues Scene***](https://www.americanbluesscene.com/michael-mills-band-stand-up/) / album review
+
+Grand Pax - *PWR*  
+[***Northern Transmissions***](https://northerntransmissions.com/pwr-grand-pax/) / album review
+
 "Top 10 Stevie Ray Vaughan Songs"  
 [***Blues Rock Review***](http://bluesrockreview.com/2020/06/top-10-stevie-ray-vaughan-songs.html) / album list
 
