@@ -6,8 +6,29 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
-<!-- Jackie Hayes - *Take It, Leave It*  
-[***Northern Transmissions***](https://northerntransmissions.com/take-it-leave-it-jackie-hayes/) / album review -->
+Laura Cortese and the Dance Cards - *Bitter Better*  
+[***No Depression***](https://www.nodepression.com/album-reviews/laura-cortese-and-the-dance-cards-bitter-better-embraces-the-unexpected/) / album review
+
+Too Slim and the Taildraggers - *The Remedy*  
+[***American Blues Scene***](https://www.americanbluesscene.com/too-slim-and-the-taildraggers-the-remedy/) / album review
+
+S.G. Goodman - *Old Time Feeling*  
+[***Albumism***](https://www.albumism.com/reviews/sg-goodman-old-time-feeling) / album review
+
+The Danberrys - *Shine*  
+[***Albumism***](https://www.albumism.com/reviews/the-danberrys-shine) / album review
+
+Michot's Melody Makers - *Cosmic Cajuns from Saturn*  
+[***American Blues Scene***](https://www.americanbluesscene.com/michots-melody-makers-cosmic-cajuns-from-saturn/) / album review
+
+Savoy Brown - *Ain't Done Yet*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/07/savoy-brown-aint-done-yet-review.html) / album review
+
+Victor Wainright - *Memphis Loud*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/07/victor-wainwright-and-the-train-memphis-loud-review.html) / album review
+
+Jackie Hayes - *Take It, Leave It*  
+[***Northern Transmissions***](https://northerntransmissions.com/take-it-leave-it-jackie-hayes/) / album review
 
 Hurricane Ruth - *Good Life*  
 [***American Blues Scene***](https://www.americanbluesscene.com/hurricane-ruth-good-life/) / album review
