@@ -15,6 +15,9 @@ Cary Morin - *Dockside Saints*
 Lynne Jackaman - *One Shot*  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/08/lynne-jackaman-one-shot-review.html) / album review
 
+Wily Bo Walker and Danny Flam  -  *Ain't No Man a Good Man* 
+[***American Blues Scene***](https://www.americanbluesscene.com/wily-bo-walker-and-danny-flam-aint-no-man-a-good-man/) / album review
+
 Laura Cortese and the Dance Cards - *Bitter Better*  
 [***No Depression***](https://www.nodepression.com/album-reviews/laura-cortese-and-the-dance-cards-bitter-better-embraces-the-unexpected/) / album review
 
