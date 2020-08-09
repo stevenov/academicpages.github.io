@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Wily Bo Walker: The Mayor of Voodooville Brings Beauty Out of Pandemic  
+[***American Blues Scene***](https://www.americanbluesscene.com/wily-bo-walker-the-mayor-of-voodooville-brings-beauty-out-of-pandemic/) / interview
+
+Cary Morin - *Dockside Saints*  
+[***No Depression***](https://www.nodepression.com/album-reviews/cary-morins-textured-vocals-anchor-zydeco-romp-on-dockside-saints) / album review
+
+Lynne Jackaman - *One Shot*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/08/lynne-jackaman-one-shot-review.html) / album review
+
 Laura Cortese and the Dance Cards - *Bitter Better*  
 [***No Depression***](https://www.nodepression.com/album-reviews/laura-cortese-and-the-dance-cards-bitter-better-embraces-the-unexpected/) / album review
 
