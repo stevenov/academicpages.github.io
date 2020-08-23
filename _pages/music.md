@@ -6,6 +6,12 @@ author_profile: true
 ---
 Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Arlo McKinley - *Die Midwestern*  
+[***Albumism***](https://www.albumism.com/reviews/arlo-mckinley-die-midwestern) / album review	
+
+John Fusco - *John The Revelator*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/08/john-fusco-and-the-x-road-riders-john-the-revelator-review.html) / album review
+
 Wily Bo Walker: The Mayor of Voodooville Brings Beauty Out of Pandemic  
 [***American Blues Scene***](https://www.americanbluesscene.com/wily-bo-walker-the-mayor-of-voodooville-brings-beauty-out-of-pandemic/) / interview
 
