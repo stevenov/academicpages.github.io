@@ -4,7 +4,22 @@ title: "Music writing"
 permalink: /music/
 author_profile: true
 ---
-Older reviews: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
+Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
+
+Sugaray Rayford: The Year That Should Have Been  
+[***American Blues Scene***](https://www.americanbluesscene.com/sugaray-rayford-the-year-that-should-have-been/) / interview	
+
+Go Midwest, Young Man: A Conversation with Arlo McKinley  
+[***Albumism***](https://www.albumism.com/interviews/go-midwest-young-man-a-conversation-with-arlo-mckinley) / interview 	
+
+Joe Bonamassa Talks About His Latest Projects – ‘Royal Tea’ and ‘A New Day Now’  
+[***American Blues Scene***](https://www.americanbluesscene.com/joe-bonamassa-talks-about-his-latest-projects-royal-tea-and-a-new-day-now/) / interview  	
+
+Walter Trout - *Ordinary Madness*  
+[***American Blues Scene***](https://www.americanbluesscene.com/walter-trout-ordinary-madness/) / album review	
+
+Bethany Thomas - *BT/She/Her *  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/08/bethany-thomas-bt-she-her-review.html) / album review	
 
 Arlo McKinley - *Die Midwestern*  
 [***Albumism***](https://www.albumism.com/reviews/arlo-mckinley-die-midwestern) / album review	
