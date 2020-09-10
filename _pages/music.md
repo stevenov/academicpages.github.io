@@ -18,7 +18,7 @@ Joe Bonamassa Talks About His Latest Projects – ‘Royal Tea’ and ‘A New D
 Walter Trout - *Ordinary Madness*  
 [***American Blues Scene***](https://www.americanbluesscene.com/walter-trout-ordinary-madness/) / album review	
 
-Bethany Thomas - *BT/She/Her *  
+Bethany Thomas - *BT/She/Her*  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/08/bethany-thomas-bt-she-her-review.html) / album review	
 
 Arlo McKinley - *Die Midwestern*  
