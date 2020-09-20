@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Bobby Rush Interview: Still Rawer than Raw  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/09/bobby-rush-interview-still-rawer-than-raw.html) / interview  
+
+Brennen Leigh - *Prairie Love Letter*  
+[***No Depression***](https://www.nodepression.com/album-reviews/northern-stories-inspire-brennen-leighs-prairie-love-letter) / album review	
+
+Kirk Fletcher - *My Blues Pathway*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/09/kirk-fletcher-my-blues-pathway-review.html) / album review
+
 Sugaray Rayford: The Year That Should Have Been  
 [***American Blues Scene***](https://www.americanbluesscene.com/sugaray-rayford-the-year-that-should-have-been/) / interview	
 
