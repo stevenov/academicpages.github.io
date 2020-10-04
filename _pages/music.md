@@ -6,6 +6,25 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Talking ‘Below Sea Level’ Deep With Eric Johanson  
+[***American Blues Scene***](https://www.americanbluesscene.com/talking-below-sea-level-deep-with-eric-johanson/) / interview  
+
+ultrviolence Finds Himself In A Good Spot  
+[***Northern Transmissions***](https://northerntransmissions.com/ultrviolence-finds-himself-in-a-good-spot/
+) / interview  
+
+Bette Smith Interview: A Blues Grows in Brooklyn  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/09/bette-smith-interview-a-blues-grows-in-brooklyn.html) / interview  
+
+Bob Mould - *Blue Hearts*  
+[***Albumism***](https://www.albumism.com/reviews/bob-mould-blue-hearts) / album review
+
+Bart Ryan - *Starlight & Tall Tales*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/09/bart-ryan-starlight-and-tall-tales-review.html) / album review
+
+Future Islands - *As Long As You Are*  
+[***Northern Transmissions***](https://northerntransmissions.com/future-islands-as-long-as-you-are) / album review
+
 Bobby Rush Interview: Still Rawer than Raw  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/09/bobby-rush-interview-still-rawer-than-raw.html) / interview  
 
