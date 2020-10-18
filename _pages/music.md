@@ -6,6 +6,18 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Talking ‘100 Years of Blues’ With Elvin Bishop and Charlie Musselwhite  
+[***American Blues Scene***](https://www.americanbluesscene.com/talking-years-of-blues-with-elvin-bishop-and-charlie-musselwhite/) / interview  
+
+Bette Smith - *The Good, The Bad, and The Bette*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/10/bette-smith-the-good-the-bad-and-the-bette-review.html) / album review
+
+Brothers Osborne - *Skeletons*  
+[***No Depression***](https://www.nodepression.com/album-reviews/brothers-osborne-blend-country-and-rock-to-solidify-own-sound-on-skeletons/) / album review
+
+Shemekia Copeland - *Uncivil War*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/10/shemekia-copeland-uncivil-war-review.html) / album review
+
 Talking ‘Below Sea Level’ Deep With Eric Johanson  
 [***American Blues Scene***](https://www.americanbluesscene.com/talking-below-sea-level-deep-with-eric-johanson/) / interview  
 
