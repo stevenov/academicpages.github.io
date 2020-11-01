@@ -6,6 +6,21 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+New Moon Jelly Roll Freedom Rockers - *Vol. 1*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/10/new-moon-jelly-roll-freedom-rockers-volume-1-review.html) / album review
+
+The Slow Readers Club - *91 Days In Isolation*  
+[***Northern Transmissions***](https://northerntransmissions.com/the-slow-readers-club-91-days-in-isolation/) / album review
+
+Dex Wolfe - *Lightness*  
+[***Northern Transmissions***](https://northerntransmissions.com/dex-wolfe-lightness/) / album review
+
+Churchwood - *Plenty to Go Awry*  
+[***American Blues Scene***](https://www.americanbluesscene.com/churchwood-plenty-wrong-to-go-awry/) / album review
+
+Jeremiah Johnson - *Unemployed Highly Annoyed*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/10/jeremiah-johnson-unemployed-highly-annoyed-review.html) / album review
+
 Talking ‘100 Years of Blues’ With Elvin Bishop and Charlie Musselwhite  
 [***American Blues Scene***](https://www.americanbluesscene.com/talking-years-of-blues-with-elvin-bishop-and-charlie-musselwhite/) / interview  
 
