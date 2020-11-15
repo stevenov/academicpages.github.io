@@ -6,6 +6,21 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+"Bartees Strange Is Hitting His Stride"  
+[***Northern Transmissions***](https://northerntransmissions.com/bartees-strange-is-hitting-his-stride/) / profile
+
+"Shemekia Copeland Interview: The Blues is Roots"  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/11/shemekia-copeland-interview-the-blues-is-roots.html) / interview
+
+"The Perks of Being Present: A Conversation with P.J. O’Connor"  
+[***Albumism***](https://www.albumism.com/interviews/the-perks-of-being-present-a-conversation-with-pj-oconnor) / interview
+
+P.J. O'Connor - *Television's Golden Age*  
+[***Albumism***](https://www.albumism.com/reviews/pj-oconnor-televisions-golden-age) / album review
+
+JD3 and the Jondo Trio - *Something Good*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/11/jd3-and-the-jondo-trio-something-good-review.html) / album review
+
 New Moon Jelly Roll Freedom Rockers - *Vol. 1*  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/10/new-moon-jelly-roll-freedom-rockers-volume-1-review.html) / album review
 
@@ -37,8 +52,7 @@ Talking ‘Below Sea Level’ Deep With Eric Johanson
 [***American Blues Scene***](https://www.americanbluesscene.com/talking-below-sea-level-deep-with-eric-johanson/) / interview  
 
 ultrviolence Finds Himself In A Good Spot  
-[***Northern Transmissions***](https://northerntransmissions.com/ultrviolence-finds-himself-in-a-good-spot/
-) / interview  
+[***Northern Transmissions***](https://northerntransmissions.com/ultrviolence-finds-himself-in-a-good-spot/) / profile  
 
 Bette Smith Interview: A Blues Grows in Brooklyn  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/09/bette-smith-interview-a-blues-grows-in-brooklyn.html) / interview  
@@ -62,7 +76,7 @@ Kirk Fletcher - *My Blues Pathway*
 [***Blues Rock Review***](https://bluesrockreview.com/2020/09/kirk-fletcher-my-blues-pathway-review.html) / album review
 
 Sugaray Rayford: The Year That Should Have Been  
-[***American Blues Scene***](https://www.americanbluesscene.com/sugaray-rayford-the-year-that-should-have-been/) / interview	
+[***American Blues Scene***](https://www.americanbluesscene.com/sugaray-rayford-the-year-that-should-have-been/) / profile	
 
 Go Midwest, Young Man: A Conversation with Arlo McKinley  
 [***Albumism***](https://www.albumism.com/interviews/go-midwest-young-man-a-conversation-with-arlo-mckinley) / interview 	
