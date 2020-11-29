@@ -6,6 +6,18 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Larkin Poe - *Kindred Spirits*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/11/larkin-poe-kindred-spirit-review.html) / album review
+
+Mike Cambell/The Dirty Knobs - *Wreckless Abandon*  
+[***Glide Magazine***](https://glidemagazine.com/250697/mike-campbells-the-dirty-knobs-steers-past-the-heartbreakers-legacy-on-wreckless-abandon-album-review/) / album review
+
+Digawolf - *High Arctic*  
+[***Northern Transmissions***](https://northerntransmissions.com/digawolf-high-arctic/) / album review
+
+Casey James - *If You Don't Know By Now*  
+[***Blues Rock Review***](https://bluesrockreview.com/2020/11/casey-james-if-you-dont-know-by-now-review.html) / album review
+
 "Bartees Strange Is Hitting His Stride"  
 [***Northern Transmissions***](https://northerntransmissions.com/bartees-strange-is-hitting-his-stride/) / profile
 
