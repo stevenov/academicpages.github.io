@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019)
 
+Scott H. Biram - *Fever Dreams*  
+[***American Blues Scene***](https://www.americanbluesscene.com/scott-h-biram-releases-his-manic-intensity-on-fever-dreams/) / album review
+
+Nilüfer Yanya - *Feeling Lucky*  
+[***Northern Transmissions***](https://northerntransmissions.com/nilufer-yanya-feeling-lucky/) / album review
+
+Carly Johnson - *Carly Johnson*  
+[***American Blues Scene***](https://www.americanbluesscene.com/carly-johnson-combines-rock-soul-pop-on-eponymous-debut/) / album review
+
 Larkin Poe - *Kindred Spirits*  
 [***Blues Rock Review***](https://bluesrockreview.com/2020/11/larkin-poe-kindred-spirit-review.html) / album review
 
