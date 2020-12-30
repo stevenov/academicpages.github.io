@@ -21,6 +21,8 @@ I've also written for [OpenSource.com](http://opensource.com/), which does a won
 * [3 open source markdown editors put to the test](https://opensource.com/14/3/markdown-editor-roundup)
 * [How to write your book using Linux](https://opensource.com/life/13/11/how-write-book-with-linux)
 
+I participated in a 2014 [Internet Archive Tumblr residency](https://blog.archive.org/2014/01/16/archive-tumblr-fun-announcing-a-year-of-tumblr-residencies/). My project was [a history of Linux distribution web sites told in screenshots](https://linux-website-screenshots.tumblr.com/).
+
 I also occasionally post things to *Medium*:
 
 * [Putting the Personal Back in Personal Computing](https://hackernoon.com/putting-the-personal-back-in-personal-computing-5c958ff0eae3)
