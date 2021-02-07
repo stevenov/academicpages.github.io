@@ -6,11 +6,20 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Selwyn Birchwood - *Living In A Burning House*  
+[***Blues Rock Review***](hhttps://bluesrockreview.com/2021/02/selwyn-birchwood-living-in-a-burning-house-review.html) / album review
+
+Bobby Rush Remembers Blues Legend Elmore James  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/01/bobby-rush-remembers-blues-legend-elmore-james.html) / interview
+
+Andrew Riverstone - *Andrew Riverstone*  
+[***Blues Blast Magazine***](http://www.bluesblastmagazine.com/andrew-riverstone-andrew-riverstone-album-review/) / album review
+
 Dennis Jones - *Soft Hard & Loud*  
-[***Blues Rock Review***](http://www.bluesblastmagazine.com/dennis-jones-soft-hard-loud-album-review/) / album review
+[***Blues Blast Magazine***](http://www.bluesblastmagazine.com/dennis-jones-soft-hard-loud-album-review/) / album review
 
 Ghalia Volt - *One Woman Band*  
-[***Blues Blast Magazine***](https://bluesrockreview.com/2021/01/ghalia-volt-one-woman-band-review.html) / album review
+[***Blues Rock Review***](https://bluesrockreview.com/2021/01/ghalia-volt-one-woman-band-review.html) / album review
 
 Göksenin - *Women's Blues*  
 [***Blues Blast Magazine***](http://www.bluesblastmagazine.com/goksenin-womens-blues-album-review/) / album review
