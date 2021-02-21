@@ -6,6 +6,9 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Devil Love - *Broken Things*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/02/devil-love-broken-things-review.html) / album review
+
 Selwyn Birchwood - *Living In A Burning House*  
 [***Blues Rock Review***](https://bluesrockreview.com/2021/02/selwyn-birchwood-living-in-a-burning-house-review.html) / album review
 
