@@ -6,6 +6,12 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Rick Holmstrom - *See That Light*  
+[***Working Mojo***](https://www.workingmojo.com/rick-holmstrom-keeps-the-garage-clean/) / album review
+
+Curtis Salgado - *Damage Control*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/02/curtis-salgado-damage-control-review.html) / album review
+
 Devil Love - *Broken Things*  
 [***Blues Rock Review***](https://bluesrockreview.com/2021/02/devil-love-broken-things-review.html) / album review
 
