@@ -6,6 +6,9 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Dennis Jones: How to Let the Song Go  
+[***Working Mojo***](https://www.workingmojo.com/dennis-jones-how-to-let-the-song-go/) / interview
+
 Rick Holmstrom - *See That Light*  
 [***Working Mojo***](https://www.workingmojo.com/rick-holmstrom-keeps-the-garage-clean/) / album review
 
