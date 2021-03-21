@@ -6,6 +6,30 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Ghalia Volt and Songwriting’s Beautiful Mess    
+[***Working Mojo***](https://www.workingmojo.com/ghalia-volt-and-songwritings-beautiful-mess/) / interview
+
+Top 10 Black Crowes Songs    
+[***Blues Rock Review***](https://bluesrockreview.com/2021/03/top-10-black-crowes-songs.html) / album list
+
+Alabama Slim - *The Parlor*  
+[***Working Mojo***](https://www.workingmojo.com/alabama-slim-brings-delightful-chaos-to-the-blues/) / album review
+
+Damon Fowler - *Alafia Moon*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/03/damon-fowler-alafia-moon-review.html) / album review
+
+Sunnysiders - *The Bridges*  
+[***Working Mojo***](https://www.workingmojo.com/sunnysiders-bridges-review/) / album review
+
+Harvery Brindell - *Pennies On the Dollar*  
+[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/harvey-brindell-pennies-on-the-dollar-album-review/) / album review
+
+Alias Smith & Jones - *Hit & Run*  
+[***Blues Blast Magazine***](https://www.bluesblastmagazine.com/alias-smith-jones-hit-run-album-review/) / album review
+
+New Moon Jelly Roll Freedom Rockers - *Volume 2*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/03/new-moon-jelly-roll-freedom-rockers-vol-2-review.html) / album review
+
 Dennis Jones: How to Let the Song Go  
 [***Working Mojo***](https://www.workingmojo.com/dennis-jones-how-to-let-the-song-go/) / interview
 
