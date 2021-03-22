@@ -22,7 +22,7 @@ Sunnysiders - *The Bridges*
 [***Working Mojo***](https://www.workingmojo.com/sunnysiders-bridges-review/) / album review
 
 Harvery Brindell - *Pennies On the Dollar*  
-[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/harvey-brindell-pennies-on-the-dollar-album-review/) / album review
+[***Blues Blast Magazine***](https://www.bluesblastmagazine.com/harvey-brindell-pennies-on-the-dollar-album-review/) / album review
 
 Alias Smith & Jones - *Hit & Run*  
 [***Blues Blast Magazine***](https://www.bluesblastmagazine.com/alias-smith-jones-hit-run-album-review/) / album review
