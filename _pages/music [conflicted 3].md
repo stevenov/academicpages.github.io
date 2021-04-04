@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Featured Interview – Fiona Boyes  
+[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/featured-interview-fiona-boyes-2/) / profile
+
+Joanna Connor - *4801 South Indiana Avenue*  
+[***Working Mojo***](https://www.workingmojo.com/joanna-connor-shares-nutritious-guitar-candy/) / album review
+
+John Smith - *The Fray*  
+[***No Depression***](https://www.nodepression.com/album-reviews/session-work-informs-john-smiths-sensitive-exploration-of-sadness-on-the-fray) / album review
+
 Ghalia Volt and Songwriting’s Beautiful Mess    
 [***Working Mojo***](https://www.workingmojo.com/ghalia-volt-and-songwritings-beautiful-mess/) / interview
 
@@ -22,7 +31,7 @@ Sunnysiders - *The Bridges*
 [***Working Mojo***](https://www.workingmojo.com/sunnysiders-bridges-review/) / album review
 
 Harvery Brindell - *Pennies On the Dollar*  
-[***Blues Blast Magazine***](https://www.bluesblastmagazine.com/harvey-brindell-pennies-on-the-dollar-album-review/) / album review
+[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/harvey-brindell-pennies-on-the-dollar-album-review/) / album review
 
 Alias Smith & Jones - *Hit & Run*  
 [***Blues Blast Magazine***](https://www.bluesblastmagazine.com/alias-smith-jones-hit-run-album-review/) / album review

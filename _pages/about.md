@@ -19,3 +19,5 @@ I recently returned to music writing, reviewing albums and interviewing artists 
 I [wrote about hockey](http://web.archive.org/web/20140222055933/http://www.puckupdate.com/) for over a decade.
 
 This site collects my work. 
+
+*updated 4.8.21*
