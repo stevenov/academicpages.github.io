@@ -6,8 +6,23 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Alabama Slim on Tapping into the Blues’ Emotional Center    
+[***Working Mojo***](https://www.workingmojo.com/alabama-slim-on-tapping-into-the-blues-emotional-center/) / interview
+
+Featured Interview – Ana Popovic    
+[***Blues Blast Magazine***](https://www.bluesblastmagazine.com/featured-interview-ana-popovic-2/) / interview
+
+Album Artistry: Celebrating Tom Petty's Dynamic Discography    
+[***Albumism***](https://www.albumism.com/discographies?author=5b6b9749562fa7f6152eecfc) / discography
+
+Elizabeth King - *Living In The Last Days*  
+[***Working Mojo***](https://www.workingmojo.com/elizabeth-kings-spirituality-is-rooted-in-earthly-challenges/) / album review
+
+Jesse Aycock - *Jesse Aycock*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/04/jesse-aycock-jesse-aycock-review.html) / album review
+
 Featured Interview – Fiona Boyes  
-[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/featured-interview-fiona-boyes-2/) / profile
+[***Blues Blast Magazine***](https://www.bluesblastmagazine.com/featured-interview-fiona-boyes-2/) / profile
 
 Joanna Connor - *4801 South Indiana Avenue*  
 [***Working Mojo***](https://www.workingmojo.com/joanna-connor-shares-nutritious-guitar-candy/) / album review
