@@ -70,8 +70,8 @@ social:
 
 
 # Analytics
-#analytics:
-#  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+analytics:
+  provider               : "custom" # false (default)
 #  google:
 #    tracking_id          : 
 
