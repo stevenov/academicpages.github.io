@@ -6,6 +6,18 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Wily Bo Walker - *Tales of the Mescal Canyon Troubadours*  
+[***Working Mojo***](https://www.workingmojo.com/wily-bo-walker-uses-the-blues-as-a-point-of-departure/) / album review
+
+Eli West - *Tapered Point of Stone*  
+[***No Depression***](hhttps://www.nodepression.com/album-reviews/eli-west-makes-every-note-count-on-tapered-point-of-stone) / album review
+
+Reverend Peyton’s Big Damn Band - *Dance Songs for Hard Times*  
+[***Working Mojo***](https://www.workingmojo.com/reverend-peytons-big-damn-band-brings-the-80s-to-the-blues/) / album review
+
+Popa Chubby - *Tin Foil Hat*  
+[***Blues Rock Review***](https://bluesrockreview.com/2021/04/popa-chubby-tinfoil-hat-review.html) / album review
+
 Alabama Slim on Tapping into the Blues’ Emotional Center    
 [***Working Mojo***](https://www.workingmojo.com/alabama-slim-on-tapping-into-the-blues-emotional-center/) / interview
 
