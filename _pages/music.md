@@ -10,7 +10,7 @@ Wily Bo Walker - *Tales of the Mescal Canyon Troubadours*
 [***Working Mojo***](https://www.workingmojo.com/wily-bo-walker-uses-the-blues-as-a-point-of-departure/) / album review
 
 Eli West - *Tapered Point of Stone*  
-[***No Depression***](hhttps://www.nodepression.com/album-reviews/eli-west-makes-every-note-count-on-tapered-point-of-stone) / album review
+[***No Depression***](https://www.nodepression.com/album-reviews/eli-west-makes-every-note-count-on-tapered-point-of-stone) / album review
 
 Reverend Peyton’s Big Damn Band - *Dance Songs for Hard Times*  
 [***Working Mojo***](https://www.workingmojo.com/reverend-peytons-big-damn-band-brings-the-80s-to-the-blues/) / album review
