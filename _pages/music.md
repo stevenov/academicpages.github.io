@@ -12,11 +12,11 @@ Joanna Connor Discusses Taste and Presence in the Blues
 Delgres - *4 00 AM*  
 [***Working Mojo***](https://www.workingmojo.com/the-delgres-expand-the-palette-of-the-blues/) / album review
 
-Leftover Salmon - *Brand New Good Old Days*  
-[***No Depression***](https://www.nodepression.com/album-reviews/leftover-salmon-brings-pep-to-brand-new-good-old-days) / album review
-
 Veronica Lewis - *You Ain't Unlucky*  
 [***Blues Rock Review***](https://bluesrockreview.com/2021/05/veronica-lewis-you-aint-unlucky-review.html) / album review
+
+Leftover Salmon - *Brand New Good Old Days*  
+[***No Depression***](https://www.nodepression.com/album-reviews/leftover-salmon-brings-pep-to-brand-new-good-old-days) / album review
 
 Wily Bo Walker - *Tales of the Mescal Canyon Troubadours*  
 [***Working Mojo***](https://www.workingmojo.com/wily-bo-walker-uses-the-blues-as-a-point-of-departure/) / album review
