@@ -6,6 +6,12 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Robert Finley on honest songwriting      
+[***Working Mojo***](https://www.workingmojo.com/robert-finley-on-honest-songwriting/) / interview
+
+Robert Finley - *Sharecropper’s Son*      
+[***Working Mojo***](https://www.workingmojo.com/robert-finely-creates-soulful-memories-on-sharecroppers-son/) / album review
+
 Joanna Connor Discusses Taste and Presence in the Blues    
 [***Working Mojo***](https://www.workingmojo.com/joanna-connor-discusses-taste-and-presence-in-the-blues/) / interview
 
