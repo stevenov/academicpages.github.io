@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Pascal Danae discovers himself in the blues     
+[***Working Mojo***](https://www.workingmojo.com/pascal-danae-discovers-himself-in-the-blues/) / interview
+
+Bob Corritore and Friends - *Spider in My Stew*     
+[***Working Mojo***](https://www.workingmojo.com/bob-corritore-doesnt-need-the-element-of-surprise-to-charm/) / album review
+
+Eddie Turner - *Change in Me*     
+[***Blues Rock Review***](https://bluesrockreview.com/2021/06/eddie-turner-change-in-me-review.html) / album review
+
 Robert Finley on honest songwriting      
 [***Working Mojo***](https://www.workingmojo.com/robert-finley-on-honest-songwriting/) / interview
 
