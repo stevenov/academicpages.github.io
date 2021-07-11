@@ -9,7 +9,7 @@ Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://st
 Steve Cropper - *Fire It Up*  
 [**Working Mojo**](https://www.workingmojo.com/steve-cropper-pairs-youthful-energy-with-aged-wisdom/) / album review
 
-Jarkka Rissanen & Sons of the Desert Cargo*  
+Jarkka Rissanen & Sons of the Desert- *Cargo*  
 [**Blues Blast Magazine**](https://www.bluesblastmagazine.com/jarkka-rissanen-sons-of-the-desert-cargo-album-review/) / album review
 
 Dr. Helander & Third Ward - *Traffic Jam on the Back Street*  
