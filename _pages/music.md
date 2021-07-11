@@ -6,6 +6,15 @@ author_profile: true
 ---
 Older articles: [2018](https://steven.ovadia.org/music/2018) / [2019](https://steven.ovadia.org/music/2019) / [2020](https://steven.ovadia.org/music/2020)
 
+Steve Cropper - *Fire It Up*  
+[**Working Mojo**](https://www.workingmojo.com/steve-cropper-pairs-youthful-energy-with-aged-wisdom/) / album review
+
+Jarkka Rissanen & Sons of the Desert Cargo*  
+[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/jarkka-rissanen-sons-of-the-desert-cargo-album-review/) / album review
+
+Dr. Helander & Third Ward - *Traffic Jam on the Back Street*  
+[**Blues Blast Magazine**](https://www.bluesblastmagazine.com/dr-helander-third-ward-traffic-jam-on-the-back-street-album-review/) / album review
+
 Pascal Danae discovers himself in the blues     
 [***Working Mojo***](https://www.workingmojo.com/pascal-danae-discovers-himself-in-the-blues/) / interview
 
