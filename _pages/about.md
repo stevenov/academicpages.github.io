@@ -14,7 +14,7 @@ I'm Professor/Acting Chief Librarian at LaGuardia Community College. My academic
 
 I also write about technology for wider audiences, concentrating on free and open source software. [The Linux Setup](https://linuxrig.com/the-linux-setup/) is my collection of interviews with desktop Linux users about their Linux setups. My book, *[Learn Linux in a Month of Lunches](http://manning.com/ovadia)*, teaches non-technical users how to use Linux for everyday tasks.
 
-I recently returned to music writing, reviewing albums and interviewing artists across genres, but concentrating on blues and Americana.
+I recently returned to music writing, reviewing albums and interviewing artists across genres, but concentrating on blues and Americana. My latest project is [Working Mojo](https://workingmojo.com), where I interview blues artists about their songwriting process.
 
 I [wrote about hockey](http://web.archive.org/web/20140222055933/http://www.puckupdate.com/) for over a decade.
 
